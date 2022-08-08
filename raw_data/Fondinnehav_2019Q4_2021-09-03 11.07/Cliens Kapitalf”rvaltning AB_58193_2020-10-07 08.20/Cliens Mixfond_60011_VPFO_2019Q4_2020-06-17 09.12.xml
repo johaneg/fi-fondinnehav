@@ -1,0 +1,1745 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2019-12-31</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>Cliens Kapitalförvaltning AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58193</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>5493001XOIKH56D1VB49</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>60011</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0001338815</Fond_ISIN-kod>
+    <Fond_namn>Cliens Mixfond</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>CLIENS MIXFOND A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.4</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>OMRX TBILL</Avkastningströskel>
+              <ProcentuelltUttag>15</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>CLIENS MIXFOND B</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.75</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>989247042</Fondförmögenhet>
+    <Likvida_medel>19596188</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-2700426</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>2.77</Aktiv_risk>
+    <Standardavvikelse_24_månader>7.37</Standardavvikelse_24_månader>
+    <Jämförelseindex>SIX RX 50; OMRX T BILL 50; </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LAGERCRANTZ GROUP B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007603493</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>150213</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>146.4</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>21991183.2</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.22</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INVESTOR B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000107419</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>50000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>511.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>25560000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.58</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LIFCO B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0006370730</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>40000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>572</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>22880000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.31</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LATOUR B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010100958</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>200000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>152.8</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>30560000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.09</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INDUTRADE</Instrumentnamn>
+        <ISIN-kod_instrument>SE0001515552</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>65000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>335.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>21788000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HENNES MAURITZ B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000106270</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>100000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>190.48</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>19048000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.93</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ESSITY B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009922164</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>85000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>301.8</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>25653000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.59</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Dagligvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ICA GRUPPEN AB</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000652216</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>40000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>437.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>17488000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.77</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Dagligvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HEXAGON B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000103699</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>40000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>525</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>21000000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.12</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NCC B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000117970</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>100000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>153.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>15320000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.55</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TELE2 B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0005190238</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>100000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>135.85</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>13585000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.37</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Telekomoperatörer</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SHB A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007100599</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>150000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.9</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>15135000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.53</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VITEC B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007871363</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>150000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>185</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>27750000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.81</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TRELLEBORG B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000114837</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>100000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>168.55</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>16855000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.7</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SECURITAS B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000163594</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>150000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>161.45</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>24217500</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.45</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NORDEA SE</Instrumentnamn>
+        <ISIN-kod_instrument>FI4000297767</ISIN-kod_instrument>
+        <Landkod_Emittent>FI</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>200000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>75.64</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>15128000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.53</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NIBE INDUSTRIER B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0008321293</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>175000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>162.4</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>28420000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.87</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SAGAX D</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009161052</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>500000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>36.35</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>18175000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.84</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NP3 PREF</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010820514</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>400000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>36.5</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>14600000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.48</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ASSA ABLOY B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007100581</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>120000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>219</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>26280000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.66</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AARHUSKARLSHAMN</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011337708</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>150000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>178</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>26700000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.7</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Dagligvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ASTRAZENECA</Instrumentnamn>
+        <ISIN-kod_instrument>GB0009895292</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>20000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>940.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>18804000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.9</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ELEKTA B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000163628</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>50000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>123.35</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6167500</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BONAVA B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0008091581</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>98098</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.5</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9760751</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.99</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ADDTECH B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0005568136</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>76000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>303</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>23028000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.33</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BALDER B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000455057</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>70000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>433.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>30324000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.07</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LANDSHYP FRN 241016</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013103736</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.094477777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6065668.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SHB FRN 271115</Instrumentnamn>
+        <ISIN-kod_instrument>XS1717459694</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>9000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.14315</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9012883.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.91</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SKANSKA FRN 230524</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011088822</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.4043</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4016172</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ARLA FRN 230703</Instrumentnamn>
+        <ISIN-kod_instrument>XS1839547418</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.644319444444</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2012886.39</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Dagligvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SCANIA FRN 210906</Instrumentnamn>
+        <ISIN-kod_instrument>XS1485740143</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>1000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.371013888889</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1013710.14</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.1</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SCANIA FRN 220214</Instrumentnamn>
+        <ISIN-kod_instrument>XS1564447743</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.0603</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4042412</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SCA FRN 210524</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011062850</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>8000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.6543</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8052344</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.81</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NP3 FRN 230313</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013109485</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.2432</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2531080</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.26</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ATRIUM FRN 220321</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009773203</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.208688888889</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4048347.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BALDER FRN 220321</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010832733</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.542355555556</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6032541.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NORDAX FRN 220607</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012013159</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.697177777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4027887.11</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SAGAX FRN 210201</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010636274</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.355861111111</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6081351.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SBAB FRN 2025-11-10</Instrumentnamn>
+        <ISIN-kod_instrument>XS1317716147</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.253611111111</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4050144.44</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OFFNOR FRN 230327</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013042611</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>1250000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.169655555556</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1277120.69</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.13</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>PEAB FIN FRN 210906</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011063007</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.541986111111</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4021679.44</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VOLVO TR FRN 210406</Instrumentnamn>
+        <ISIN-kod_instrument>XS1802341955</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.697652777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2013953.06</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VOLVO TR FRN 220519</Instrumentnamn>
+        <ISIN-kod_instrument>XS1911746078</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.763866666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2015277.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VOLVO CAR FRN 220307</Instrumentnamn>
+        <ISIN-kod_instrument>XS1530953618</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.363011111111</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6141780.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VOLVO FIN FRN 220927</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010101915</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.448655555556</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5072432.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.51</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VOLVO TR FRN 221104</Instrumentnamn>
+        <ISIN-kod_instrument>XS2075216395</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.068908333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2001378.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ÅF FRN 230620</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011062884</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.1928666666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3967714.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.4</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ÅF FRN 240627</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012676401</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.731433333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4029257.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>WIHLBORG FRN 210308</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010832683</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.464566666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6027874</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>WILLHEM FRN 230903</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010599324</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.898444444444</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6113906.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VASAKRON FRN 230116</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010766121</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.023477777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4080939.11</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SSAB FRN 240626</Instrumentnamn>
+        <ISIN-kod_instrument>XS2017330221</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.065766666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2021315.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>STENDORREN FRN210618</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011282052</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.233194444444</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5111659.72</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SPB REKAR FRN 230605</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011426253</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.399122222222</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4015964.89</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SSAB FRN 220405</Instrumentnamn>
+        <ISIN-kod_instrument>XS1591582926</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>104.704347222222</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2094086.94</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.21</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SVEASKOG FRN 231030</Instrumentnamn>
+        <ISIN-kod_instrument>SE0006425526</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.576155555556</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6094569.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TELE2 FRN 220316</Instrumentnamn>
+        <ISIN-kod_instrument>XS1490961759</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>9000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.59325</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9233392.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.93</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Telekomoperatörer</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TRELLE TR FRN 241017</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013282837</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.33375</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4013350</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SWB SJUH FRN 210621</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011088871</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.5688</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6034128</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AKELIUS FRN 241112</Instrumentnamn>
+        <ISIN-kod_instrument>XS2079078478</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.158544444444</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5007927.22</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.51</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HUSQVARNA FRN 220301</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009664543</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.135361111111</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6068121.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>IKANO FRN 220516</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011062819</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.32975</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6019785</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HUMLEGÅRD FRN 210528</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010599241</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.829208333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2016584.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HUMLEGÅRD FRN 241007</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012676526</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.580569444444</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4023222.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INDUSTRIV FRN 210224</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009663370</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>3000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.0243</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3030729</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.31</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INTEA FRN 220705</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010133470</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.204347222222</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6132260.83</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EPIROC FRN 231206</Instrumentnamn>
+        <ISIN-kod_instrument>XS1918042364</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.946125</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5097306.25</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>COREM FRN 210301</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010894931</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>8000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.63525</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8210820</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.83</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INDUTRADE FRN 240926</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012676419</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>8000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.607766666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8048621.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.81</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FASTPART FRN 210915</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010949545</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>9000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.39075</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9215167.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.93</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HEMFOSA  FRN 220516</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012596203</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.292205555556</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2582305.14</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.26</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FABEGE FRN 220926</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010414425</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>3000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.6741</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3050223</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.31</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FABEGE FRN 230830</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011062942</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.347133333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2026942.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HEMSO FGH FRN 220316</Instrumentnamn>
+        <ISIN-kod_instrument>XS1581278063</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.211083333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4048443.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HEXAGON FRN 230404</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010833079</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>8000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.824533333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8065962.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.82</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HOLMEN FRN 230302</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010832675</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>8000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.688583333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8055086.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.81</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ELUX FRN 230327</Instrumentnamn>
+        <ISIN-kod_instrument>XS1799063687</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>8000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.9631</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8077048</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.82</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ELEKTA FRN 220328</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009779432</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.264133333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5113206.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BOLIDEN FRN 240619</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011426279</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.751</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6045060</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LKAB FRN 250310</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012675957</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.7800583333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1995601.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LF BANK FRN 260426</Instrumentnamn>
+        <ISIN-kod_instrument>SE0008294474</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.318777777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2046375.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.21</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LATOUR FRN 220316</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010985523</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>8000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.773916666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8061913.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.81</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LF BANK FRN 220620</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010101113</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.489227777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2029784.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.21</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NIBE FRN 210621</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010100792</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.938577777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4037543.11</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NIBE FRN 230904</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011062983</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.842625</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4033705</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NCC TR FRN 240930</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012193886</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.198466666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6011908</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LOOMIS FRN 230918</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011869932</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>8000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.42725</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8034180</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.81</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BILLERUD FRN 230320</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010832717</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.560227777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6033613.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KUNGSL. FRN 220321</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010599100</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.095688888889</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6185741.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.63</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KLARNA FRN 220815</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011870013</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.226872222222</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6013612.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KINNEVIK FRN 220315</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009697386</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>7000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.5385</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7107695</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.72</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CASTELLUM FRN 220901</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009663990</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.166416666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5158320.83</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NORDEA FRN 200312</Instrumentnamn>
+        <ISIN-kod_instrument>XS1202091325</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>8000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.467775</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8037422</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.81</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LANTMANN. FRN 201207</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007783832</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.241233333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5062061.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.51</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Dagligvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SPB MÄLAR FRN 200923</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009155278</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.476577777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5023828.89</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.51</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INTRUM J. FRN 200706</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011088913</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.913180555556</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6054790.83</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KLÖVERN FRN 201102</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009241805</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>7000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.287658333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7160136.08</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.72</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ICA FRN 210115</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011205400</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>3000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.613027777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3018390.83</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.31</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Dagligvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KLARNA FRN 200922</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010413310</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.575355555556</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2011507.11</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CLIENS FÖRETAGOBL  B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010948406</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>75118.6661</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1021.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>76711181.82</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>7.75</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

@@ -1,0 +1,604 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2022-03-31</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>AIFM Capital AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>35204</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>549300SQP0ENF6G7RH57</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>53139</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0013358181</Fond_ISIN-kod>
+    <Fond_namn>AuAg Silver Bullet</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>AUAG SILVER BULLET A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.4</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>AUAG SILVER BULLET B</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.4</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>936684658</Fondförmögenhet>
+    <Likvida_medel>17757802</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-8908327</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>22.44</Aktiv_risk>
+    <Standardavvikelse_24_månader>40.72</Standardavvikelse_24_månader>
+    <Jämförelseindex>
+      <Jämförelseindex>NSQ PHLX GOLD/SILVER</Jämförelseindex>
+    </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NEWMONT GOLDCORP</Instrumentnamn>
+        <ISIN-kod_instrument>US6516391066</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>8000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>79.45</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5976546.8</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.64</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NEW GOLD INC</Instrumentnamn>
+        <ISIN-kod_instrument>CA6445351068</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1400000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.8</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>23695560</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.53</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>PAN AMERICAN SILVER</Instrumentnamn>
+        <ISIN-kod_instrument>CA6979001089</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>310000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>27.3</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>79577589</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>8.5</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OSISKO GOLD ROYALTIE</Instrumentnamn>
+        <ISIN-kod_instrument>CA68827L1013</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>300000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>13.19</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>37207671</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.97</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>IMPACT SILVER CORP</Instrumentnamn>
+        <ISIN-kod_instrument>CA45257A1021</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>1400000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.55</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>7.5186</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5789322</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MCEWEN MINING INC</Instrumentnamn>
+        <ISIN-kod_instrument>US58039P1075</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>4000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.8417</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>31658020.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.38</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MAG SILVER CORP</Instrumentnamn>
+        <ISIN-kod_instrument>CA55903Q1046</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>220000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>16.17</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>33450232.2</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.57</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>WHEATON PRECIOUS MET</Instrumentnamn>
+        <ISIN-kod_instrument>CA9628791027</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>90000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>47.58</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>40265526.6</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.3</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>YAMANA GOLD INC</Instrumentnamn>
+        <ISIN-kod_instrument>CA98462Y1007</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>800000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>5.58</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>41974992</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.48</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SILVERCORP METALS</Instrumentnamn>
+        <ISIN-kod_instrument>CA82835P1036</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>980000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3.62</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>33358082.8</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.56</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SEABRIDGE GOLD INC</Instrumentnamn>
+        <ISIN-kod_instrument>CA8119161054</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>107000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>18.5</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>18613238.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.99</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SSR MINING INC</Instrumentnamn>
+        <ISIN-kod_instrument>CA7847301032</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>195000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>21.75</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>39880473.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.26</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SILVERCREST METALS</Instrumentnamn>
+        <ISIN-kod_instrument>CA8283631015</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>230000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>8.91</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>19269567.9</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.06</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HUDBAY MINERALS INC</Instrumentnamn>
+        <ISIN-kod_instrument>CA4436281022</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>280000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>7.85</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>20667794</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.21</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DISCOVERY SILVER CRP</Instrumentnamn>
+        <ISIN-kod_instrument>CA2546771072</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>600000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.83</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>7.5186</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8255422.8</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.88</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>COEUR MINING INC</Instrumentnamn>
+        <ISIN-kod_instrument>US1921085049</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>900000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>4.45</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>37659015</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.02</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ENDEAVOUR SILVER</Instrumentnamn>
+        <ISIN-kod_instrument>CA29258Y1034</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>850000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>4.65</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>37165357.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.97</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ELDORADO GOLD CORP</Instrumentnamn>
+        <ISIN-kod_instrument>CA2849025093</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>350000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>11.21</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>36892670.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.94</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AGNICO EAGLE MINES</Instrumentnamn>
+        <ISIN-kod_instrument>CA0084741085</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>8000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>61.24</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4606717.76</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.49</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ACLARA RESOURCES</Instrumentnamn>
+        <ISIN-kod_instrument>CA00461M1032</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>274700</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.73</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>7.5186</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1507712.38</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.16</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BARRICK GOLD CORP</Instrumentnamn>
+        <ISIN-kod_instrument>CA0679011084</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>20000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>24.53</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4613111.8</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.49</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AYA GOLD SILVER INC</Instrumentnamn>
+        <ISIN-kod_instrument>CA05466C1095</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>290000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>8.92</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>7.5186</Valutakurs_instrument>
+        <Marknadsvärde_instrument>19449114.48</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.08</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GREAT PANTHER MINING</Instrumentnamn>
+        <ISIN-kod_instrument>CA39115V1013</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>5000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.251</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>11800765</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.26</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GOGOLD RESOURCES INC</Instrumentnamn>
+        <ISIN-kod_instrument>CA38045Y1025</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>500000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2.93</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>7.5186</Valutakurs_instrument>
+        <Marknadsvärde_instrument>11014749</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.18</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HOCHSCHILD MINING</Instrumentnamn>
+        <ISIN-kod_instrument>GB00B1FW5029</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>2400000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.287</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>12.2749</Valutakurs_instrument>
+        <Marknadsvärde_instrument>37914711.12</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.05</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HECLA MINING CO</Instrumentnamn>
+        <ISIN-kod_instrument>US4227041062</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1380000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>6.57</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>85253239.8</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>9.1</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FORTUNA SILVER MINES</Instrumentnamn>
+        <ISIN-kod_instrument>CA3499151080</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>2000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3.81</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>71650860</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>7.65</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FIRST MAJESTIC SILVE</Instrumentnamn>
+        <ISIN-kod_instrument>CA32076V1031</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>650000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>13.16</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>80433262</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>8.59</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GATOS SILVER INC</Instrumentnamn>
+        <ISIN-kod_instrument>US3680361090</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>170000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>4.32</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6905563.2</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.74</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FRESNILLO PLC</Instrumentnamn>
+        <ISIN-kod_instrument>GB00B2QPKJ12</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>400000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>7.34</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>12.2749</Valutakurs_instrument>
+        <Marknadsvärde_instrument>36039106.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.85</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>XTRACKRS PHY SVR ETC</Instrumentnamn>
+        <ISIN-kod_instrument>DE000A2T0VS9</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>5000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>36.045</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1694655.68</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.18</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>WISDOMTREE PHY SILVE</Instrumentnamn>
+        <ISIN-kod_instrument>JE00B1VS3333</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>8000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>23.21</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1745949.04</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.19</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ISHS PHYSICAL SILVER</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B4NCWG09</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>8200</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>23.975</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.403</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1848582.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

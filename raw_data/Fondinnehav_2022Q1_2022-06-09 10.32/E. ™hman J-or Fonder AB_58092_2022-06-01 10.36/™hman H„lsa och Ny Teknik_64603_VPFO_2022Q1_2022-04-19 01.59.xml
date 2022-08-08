@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2022-03-31</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>E. Öhman J:or Fonder AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58092</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>549300VKZ5UYSWL0KI68</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>64603</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0017131014</Fond_ISIN-kod>
+    <Fond_namn>Öhman Hälsa och Ny Teknik</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>HÄLSA OCH NY TEKNIK A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.5</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>HÄLSA OCH NY TEKNIK D</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>VINX Small Cap SEKNI</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>109754604</Fondförmögenhet>
+    <Likvida_medel>8055869</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-166953</Övriga_tillgångar_och_skulder>
+    <Standardavvikelse_24_månader>0.00</Standardavvikelse_24_månader>
+    <Jämförelseindex>
+      <Jämförelseindex>VINX SMALL CAP SEKNI</Jämförelseindex>
+    </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BONESUPPORT HOLDING</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009858152</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>118873</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>47.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5610805.6</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.11</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MEDICOVER B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009778848</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>4677</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>202</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>944754</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.86</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SOBI</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000872095</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>24943</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>223</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5562289</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.07</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ASTRAZENECA</Instrumentnamn>
+        <ISIN-kod_instrument>GB0009895292</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>5739</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1249</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7168011</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.53</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ELEKTA B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000163628</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>33147</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>74.22</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2460170.34</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.24</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VITROLIFE AB</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011205202</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>6026</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>311.6</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1877701.6</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.71</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GETINGE B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000202624</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>10603</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>377</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3997331</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.64</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SECTRA B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0016278196</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>16317</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>144.7</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2361069.9</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.15</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DETECTION TECHNOLOGY</Instrumentnamn>
+        <ISIN-kod_instrument>FI4000115464</ISIN-kod_instrument>
+        <Landkod_Emittent>FI</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>12755</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>25.3</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.36923</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3346166.07</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.05</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TOBII AB - W/I</Instrumentnamn>
+        <ISIN-kod_instrument>SE0002591420</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>152299</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>31.36</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4776096.64</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.35</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>XVIVO PERFUSION</Instrumentnamn>
+        <ISIN-kod_instrument>SE0004840718</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>15396</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>269.5</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4149222</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.78</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TOBII DYNAVOX</Instrumentnamn>
+        <ISIN-kod_instrument>SE0017105620</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>189972</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>22.6</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4293367.2</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.91</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NORDIC SEMICONDUCTOR</Instrumentnamn>
+        <ISIN-kod_instrument>NO0003055501</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal>18461</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>227.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.065805</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4470347.69</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.07</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SEDANA</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015988373</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>61904</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>67.9</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4203281.6</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.83</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AIFORIA TECHNOLOGIES</Instrumentnamn>
+        <ISIN-kod_instrument>FI4000507934</ISIN-kod_instrument>
+        <Landkod_Emittent>FI</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>19162</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>4.7</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.36923</Valutakurs_instrument>
+        <Marknadsvärde_instrument>933867.37</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.85</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NVIDIA</Instrumentnamn>
+        <ISIN-kod_instrument>US67066G1040</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>742</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>272.86</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.3194</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1886825.48</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.72</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>RAYSEARCH</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000135485</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>39502</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>51.7</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2042253.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.86</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BIOINVENT</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015244520</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>44026</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>44.38</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1953873.88</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.78</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BIOTAGE A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000454746</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>7938</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>220.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1747947.6</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.59</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LONZA GROUP AG</Instrumentnamn>
+        <ISIN-kod_instrument>CH0013841017</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>480</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>672.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.127031</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3267547.31</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.98</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ASCELIA PHARMA</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010573113</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>116868</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>23.5</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2746398</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.5</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CALLIDITAS THERAPUTI</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010441584</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>20321</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>89.8</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1824825.8</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.66</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ARJO B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010468116</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>16202</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>79.8</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1292919.6</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.18</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CAMURUS</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007692850</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>45589</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>168</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7658952</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.98</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ZEALAND PHARMA</Instrumentnamn>
+        <ISIN-kod_instrument>DK0060257814</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>DKK</Valuta>
+        <Antal>10980</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>104.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.394003</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1594901.14</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.45</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INTUITIVE SURGICAL</Instrumentnamn>
+        <ISIN-kod_instrument>US46120E6023</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>641</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>301.68</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.3194</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1802156.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.64</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>H LUNDBECK</Instrumentnamn>
+        <ISIN-kod_instrument>DK0010287234</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>DKK</Valuta>
+        <Antal>13771</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>155.65</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.394003</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2987984.3</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.72</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INTEGRUM</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009807266</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>27790</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>50</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1389500</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.27</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BIOARCTIC</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010323311</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>29287</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3022418.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.75</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NOVO-NORDISK B</Instrumentnamn>
+        <ISIN-kod_instrument>DK0060534915</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>DKK</Valuta>
+        <Antal>3920</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>748.9</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.394003</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4092357.88</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.73</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>PHOTOCURE</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010000045</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal>21364</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>118</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.065805</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2686843.25</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.45</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BAVARIAN NORDIC</Instrumentnamn>
+        <ISIN-kod_instrument>DK0015998017</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>DKK</Valuta>
+        <Antal>5817</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>171.35</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.394003</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1389462.66</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.27</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CARASENT</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010123060</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal>88103</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>24.75</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.065805</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2324040.29</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.12</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

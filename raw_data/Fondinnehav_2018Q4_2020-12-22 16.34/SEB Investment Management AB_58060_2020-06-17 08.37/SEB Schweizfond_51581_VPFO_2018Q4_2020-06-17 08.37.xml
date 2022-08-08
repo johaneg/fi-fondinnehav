@@ -1,0 +1,955 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2018-12-31</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>SEB Investment Management AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58060</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>549300DNI5UYVM6X6N69</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>51581</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0000577504</Fond_ISIN-kod>
+    <Fond_namn>SEB Schweizfond</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.40</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>1288560019</Fondförmögenhet>
+    <Likvida_medel>6484158</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-1139730</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>2.59</Aktiv_risk>
+    <Standardavvikelse_24_månader>10.14</Standardavvikelse_24_månader>
+    <Jämförelseindex>
+      <Jämförelseindex>MSCI Switzerland 10/40</Jämförelseindex>
+    </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Georg Fischer</Instrumentnamn>
+        <ISIN-kod_instrument>CH0001752309</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>4066.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>786.50000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>28760931.40</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.23</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industri</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Valora</Instrumentnamn>
+        <ISIN-kod_instrument>CH0002088976</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>5148.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>215.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9954371.46</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.77</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Konsument - Sällanköpsvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SGS Reg</Instrumentnamn>
+        <ISIN-kod_instrument>CH0002497458</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>2881.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2210.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>57262773.21</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.44</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industri</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Swisscom Reg</Instrumentnamn>
+        <ISIN-kod_instrument>CH0008742519</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>15277.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>469.70000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>64535025.16</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.01</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Kommunikationstjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Barry Callebaut</Instrumentnamn>
+        <ISIN-kod_instrument>CH0009002962</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>143.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1531.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1969010.69</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.15</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Konsument - Dagligköpsvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Givaudan Reg</Instrumentnamn>
+        <ISIN-kod_instrument>CH0010645932</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>2674.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2276.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>54735678.45</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.25</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Råvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Zurich Financial Services</Instrumentnamn>
+        <ISIN-kod_instrument>CH0011075394</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>33356.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>293.10000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>87927885.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.82</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Novartis Reg</Instrumentnamn>
+        <ISIN-kod_instrument>CH0012005267</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>134138.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>84.04000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>101385235.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>7.87</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Roche Holdings  Genussscheine</Instrumentnamn>
+        <ISIN-kod_instrument>CH0012032048</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>57474.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>243.40000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>125813963.02</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>9.76</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Nestle Reg</Instrumentnamn>
+        <ISIN-kod_instrument>CH0038863350</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>169020.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>79.80000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>121304757.40</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>9.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Konsument - Dagligköpsvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Credit Suisse Group Reg</Instrumentnamn>
+        <ISIN-kod_instrument>CH0012138530</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>136216.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.80000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>13230879.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.03</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LafargeHolcim</Instrumentnamn>
+        <ISIN-kod_instrument>CH0012214059</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>15395.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>40.50000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5607529.43</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.44</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Råvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ABB (CHF)</Instrumentnamn>
+        <ISIN-kod_instrument>CH0012221716</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>206672.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>18.69500</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>34749131.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.70</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industri</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Baloise Holding Reg</Instrumentnamn>
+        <ISIN-kod_instrument>CH0012410517</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>6516.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>135.40000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7934810.97</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Richemont Compagnie Financiere</Instrumentnamn>
+        <ISIN-kod_instrument>CH0210483332</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>18675.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>63.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>10581275.08</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.82</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Konsument - Sällanköpsvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Lonza Group</Instrumentnamn>
+        <ISIN-kod_instrument>CH0013841017</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>2654.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>254.70000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6079483.84</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.47</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Swiss Life</Instrumentnamn>
+        <ISIN-kod_instrument>CH0014852781</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>18608.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>378.60000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>63360289.35</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.92</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>APG SGA</Instrumentnamn>
+        <ISIN-kod_instrument>CH0019107025</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>132.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>330.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>391764.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.03</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Kommunikationstjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GAM Holding</Instrumentnamn>
+        <ISIN-kod_instrument>CH0102659627</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>41225.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3.85600</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1429665.82</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.11</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Bobst Reg</Instrumentnamn>
+        <ISIN-kod_instrument>CH0012684657</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>10352.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>68.30000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6358897.31</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.49</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industri</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Forbo</Instrumentnamn>
+        <ISIN-kod_instrument>CH0003541510</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>642.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1381.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7973803.91</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Konsument - Sällanköpsvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Inficon</Instrumentnamn>
+        <ISIN-kod_instrument>CH0011029946</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>7958.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>497.60000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>35614032.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.76</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>PSP Swiss Property</Instrumentnamn>
+        <ISIN-kod_instrument>CH0018294154</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>45080.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>96.85000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>39266335.89</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.05</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EMS-Chemie Holding</Instrumentnamn>
+        <ISIN-kod_instrument>CH0016440353</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>889.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>467.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3733838.13</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.29</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Råvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VALIANT HOLDING</Instrumentnamn>
+        <ISIN-kod_instrument>CH0014786500</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>2220.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>108.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2156321.81</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.17</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Vontobel Holding</Instrumentnamn>
+        <ISIN-kod_instrument>CH0012335540</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>69374.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>50.40000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>31445906.40</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.44</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Bucher Industries</Instrumentnamn>
+        <ISIN-kod_instrument>CH0002432174</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>1530.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>264.40000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3638226.45</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.28</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industri</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Gurit Holding</Instrumentnamn>
+        <ISIN-kod_instrument>CH0008012236</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>2117.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>867.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>16507328.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.28</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Råvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>COLTENE</Instrumentnamn>
+        <ISIN-kod_instrument>CH0025343259</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>7413.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>84.30000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5620286.05</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.44</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Partners Group Holding</Instrumentnamn>
+        <ISIN-kod_instrument>CH0024608827</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>8460.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>596.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>45347512.34</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Transocean (CHF)</Instrumentnamn>
+        <ISIN-kod_instrument>CH0048265513</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>45275.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>7.06000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2874749.49</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.22</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>10</Branschkod_instrument>
+          <Bransch_namn_instrument>Energi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KOMAX HOLDING</Instrumentnamn>
+        <ISIN-kod_instrument>CH0010702154</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>2197.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>230.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4544590.31</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.35</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industri</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Schmolz + Bickenbach</Instrumentnamn>
+        <ISIN-kod_instrument>CH0005795668</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>80876.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.54000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>392780.82</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.03</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Råvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Mobilezone Holding</Instrumentnamn>
+        <ISIN-kod_instrument>CH0276837694</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>152443.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.94000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>14998977.50</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.16</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Konsument - Sällanköpsvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Intershop Holdings</Instrumentnamn>
+        <ISIN-kod_instrument>CH0273774791</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>427.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>488.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1874064.53</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.15</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Fastigheter</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ARBONIA AG</Instrumentnamn>
+        <ISIN-kod_instrument>CH0110240600</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>25488.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.80000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2475690.55</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.19</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industri</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Autoneum Holding</Instrumentnamn>
+        <ISIN-kod_instrument>CH0127480363</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>6322.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>147.40000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8380864.52</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.65</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Konsument - Sällanköpsvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Swiss Reinsurance</Instrumentnamn>
+        <ISIN-kod_instrument>CH0126881561</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>24409.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>90.12000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>19783722.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.54</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Flughafen Zürich AG</Instrumentnamn>
+        <ISIN-kod_instrument>CH0319416936</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>23665.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>162.50000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>34585711.86</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.68</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industri</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EMMI</Instrumentnamn>
+        <ISIN-kod_instrument>CH0012829898</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>1645.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>681.50000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>10082508.74</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.78</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Konsument - Dagligköpsvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BKW</Instrumentnamn>
+        <ISIN-kod_instrument>CH0130293662</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>19399.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>68.70000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>11985962.79</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.93</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>55</Branschkod_instrument>
+          <Bransch_namn_instrument>El-, Gas och Vattenbolag</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Feintool Intl Holding-Reg</Instrumentnamn>
+        <ISIN-kod_instrument>CH0009320091</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>2523.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>75.20000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1706365.01</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.13</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industri</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Basellandschaftliche Kantonalbank</Instrumentnamn>
+        <ISIN-kod_instrument>CH0001473559</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>39.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>908.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>318483.77</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.02</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CEMBRA MONEY BANK</Instrumentnamn>
+        <ISIN-kod_instrument>CH0225173167</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>56334.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>77.85000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>39442646.86</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.06</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SFS GROUP</Instrumentnamn>
+        <ISIN-kod_instrument>CH0239229302</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>2509.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>76.30000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1721718.10</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.13</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industri</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>UBS Group</Instrumentnamn>
+        <ISIN-kod_instrument>CH0244767585</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>575180.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>12.23500</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>63291384.37</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.91</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sunrise Communications Group</Instrumentnamn>
+        <ISIN-kod_instrument>CH0267291224</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>20159.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>86.45000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>15673674.64</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.22</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Kommunikationstjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Tamedia</Instrumentnamn>
+        <ISIN-kod_instrument>CH0011178255</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>3442.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>105.50000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3265879.60</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.25</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Kommunikationstjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Bell AG</Instrumentnamn>
+        <ISIN-kod_instrument>CH0315966322</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>1183.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>305.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3245050.27</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.25</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Konsument - Dagligköpsvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ORIOR</Instrumentnamn>
+        <ISIN-kod_instrument>CH0111677362</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>6264.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>79.70000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4490005.94</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.35</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Konsument - Dagligköpsvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Also Holding</Instrumentnamn>
+        <ISIN-kod_instrument>CH0024590272</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>704.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>111.40000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>705333.80</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.05</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Berner Kantonalbank</Instrumentnamn>
+        <ISIN-kod_instrument>CH0009691608</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>1892.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>194.80000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3314720.62</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.26</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Galenica</Instrumentnamn>
+        <ISIN-kod_instrument>CH0360674466</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>90498.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>43.28000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>35225979.53</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.73</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Vetropack Holding</Instrumentnamn>
+        <ISIN-kod_instrument>CH0006227612</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>230.00000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2010.00000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.99367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4157772.65</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.32</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Råvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

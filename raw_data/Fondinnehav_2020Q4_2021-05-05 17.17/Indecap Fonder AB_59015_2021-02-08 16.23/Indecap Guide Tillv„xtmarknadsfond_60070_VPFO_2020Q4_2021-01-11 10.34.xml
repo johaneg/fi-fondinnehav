@@ -1,0 +1,1407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2020-12-31</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>Indecap Fonder AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>59015</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>5493005VURQ5H8BFXX60</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>60070</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0001608845</Fond_ISIN-kod>
+    <Fond_namn>Indecap Guide Tillväxtmarknadsfond</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.1</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>Morgan Stanley Capital Index Emerging Market (NET TR)</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>C</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.3</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>254864719</Fondförmögenhet>
+    <Likvida_medel>9852799</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>4924607</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>3.85</Aktiv_risk>
+    <Standardavvikelse_24_månader>17.31</Standardavvikelse_24_månader>
+    <Jämförelseindex>
+      <Jämförelseindex>Morgan Stanley Capital Index Emerging Market (NET TR)</Jämförelseindex>
+    </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>B3 SA Brasil Bolsa Balcao</Instrumentnamn>
+        <ISIN-kod_instrument>BRB3SAACNOR6</ISIN-kod_instrument>
+        <Landkod_Emittent>BR</Landkod_Emittent>
+        <Valuta>BRL</Valuta>
+        <Antal>18442.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>61.9800000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.5811</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1807253.08</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.71</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CCR SA</Instrumentnamn>
+        <ISIN-kod_instrument>BRCCROACNOR2</ISIN-kod_instrument>
+        <Landkod_Emittent>BR</Landkod_Emittent>
+        <Valuta>BRL</Valuta>
+        <Antal>99867.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>13.4700000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.5811</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2126909.36</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.83</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Cogna Educacao SA</Instrumentnamn>
+        <ISIN-kod_instrument>BRCOGNACNOR2</ISIN-kod_instrument>
+        <Landkod_Emittent>BR</Landkod_Emittent>
+        <Valuta>BRL</Valuta>
+        <Antal>86173.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>4.6300000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.5811</Valutakurs_instrument>
+        <Marknadsvärde_instrument>630828.91</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.25</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Localiza Rent A Car SA</Instrumentnamn>
+        <ISIN-kod_instrument>BRRENTACNOR4</ISIN-kod_instrument>
+        <Landkod_Emittent>BR</Landkod_Emittent>
+        <Valuta>BRL</Valuta>
+        <Antal>17016.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>68.9500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.5811</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1855030.82</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.73</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Magazine Luiza SA</Instrumentnamn>
+        <ISIN-kod_instrument>BRMGLUACNOR2</ISIN-kod_instrument>
+        <Landkod_Emittent>BR</Landkod_Emittent>
+        <Valuta>BRL</Valuta>
+        <Antal>43932.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>24.9500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.5811</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1733049.26</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.68</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Weg SA</Instrumentnamn>
+        <ISIN-kod_instrument>BRWEGEACNOR0</ISIN-kod_instrument>
+        <Landkod_Emittent>BR</Landkod_Emittent>
+        <Valuta>BRL</Valuta>
+        <Antal>2887.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>75.7400000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.5811</Valutakurs_instrument>
+        <Marknadsvärde_instrument>345725.54</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.14</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ASML Holding NV</Instrumentnamn>
+        <ISIN-kod_instrument>NL0010273215</ISIN-kod_instrument>
+        <Landkod_Emittent>NL</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>826.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>397.5500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.04853</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3299700.55</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.29</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Unilever PLC EUR</Instrumentnamn>
+        <ISIN-kod_instrument>GB00B10RZP78</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>3398.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>49.5650000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.04853</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1692392.96</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.66</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AIA Group Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>HK0000069689</ISIN-kod_instrument>
+        <Landkod_Emittent>HK</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>47391.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>95.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4768514.2</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.87</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Alibaba Group Holding Ltd Ordinary Shares</Instrumentnamn>
+        <ISIN-kod_instrument>KYG017191142</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>13100.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>232.6000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3227339.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.27</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Alibaba Health Information Technology Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>BMG0171K1018</ISIN-kod_instrument>
+        <Landkod_Emittent>HK</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>40000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>22.9000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>970195.1</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.38</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>A-Living Services Co Ltd Class H</Instrumentnamn>
+        <ISIN-kod_instrument>CNE100002RY5</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>7250.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>34.4000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>264155.74</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.10</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>China Life Insurance Co Ltd H Shares</Instrumentnamn>
+        <ISIN-kod_instrument>CNE1000002L3</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>136763.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>17.1000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2477013.26</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.97</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>China Mobile Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>HK0941009539</ISIN-kod_instrument>
+        <Landkod_Emittent>HK</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>55500.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>44.2000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2598237.55</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.02</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>China Resources Gas Group Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>BMG2113B1081</ISIN-kod_instrument>
+        <Landkod_Emittent>HK</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>24000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>41.2500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1048573.3</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>55</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>China Tower Corp Ltd Ordinary Shares Class H</Instrumentnamn>
+        <ISIN-kod_instrument>CNE100003688</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>4184000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.1400000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5051962.63</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.98</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CLP Holdings Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>HK0002007356</ISIN-kod_instrument>
+        <Landkod_Emittent>HK</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>23800.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>71.7000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1807422.63</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.71</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>55</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Country Garden Services Holdings Co Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>KYG2453A1085</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>6000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>52.4500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>333319.21</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.13</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Guangdong Investment Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>HK0270001396</ISIN-kod_instrument>
+        <Landkod_Emittent>HK</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>242000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>13.9600000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3578198.15</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.40</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>55</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Hengan International Group Co Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>KYG4402L1510</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>65000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>54.9000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3779630.14</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.48</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Meituan Dianping</Instrumentnamn>
+        <ISIN-kod_instrument>KYG596691041</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>4700.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>294.6000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1466540.98</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.58</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Ping An Healthcare And Technology Co Ltd Ordinary Shares</Instrumentnamn>
+        <ISIN-kod_instrument>KYG711391022</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>2900.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>94.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>288728.37</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.11</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Ping An Insurance (Group) Co. of China Ltd H</Instrumentnamn>
+        <ISIN-kod_instrument>CNE1000003X6</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>83846.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>95.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8436640.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.31</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Shandong Weigao Group Medical Polymer Co Ltd Class H</Instrumentnamn>
+        <ISIN-kod_instrument>CNE100000171</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>12000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>17.5200000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>222678.84</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.09</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Tencent Holdings Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>KYG875721634</ISIN-kod_instrument>
+        <Landkod_Emittent>KY</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>20691.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>564.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>12360162.69</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.85</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Wuxi AppTec Co Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>CNE100003F19</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>3400.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>151.8000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>546656.22</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.21</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>WuXi Biologics Cayman Inc</Instrumentnamn>
+        <ISIN-kod_instrument>KYG970081173</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>7500.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.8000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>816616.18</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.32</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Yihai International Holdings Ltd Shs Unitary 144A/Reg S</Instrumentnamn>
+        <ISIN-kod_instrument>KYG984191075</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>2000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>115.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.05916</Valutakurs_instrument>
+        <Marknadsvärde_instrument>243607.94</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.10</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Bank Central Asia Tbk</Instrumentnamn>
+        <ISIN-kod_instrument>ID1000109507</ISIN-kod_instrument>
+        <Landkod_Emittent>ID</Landkod_Emittent>
+        <Valuta>IDR</Valuta>
+        <Antal>226716.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>33850.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.00058</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4485848.57</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.76</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Bank Rakyat Indonesia (Persero) Tbk Class B</Instrumentnamn>
+        <ISIN-kod_instrument>ID1000118201</ISIN-kod_instrument>
+        <Landkod_Emittent>ID</Landkod_Emittent>
+        <Valuta>IDR</Valuta>
+        <Antal>753401.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>4170.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.00058</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1836394.62</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.72</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Telekomunikasi Indonesia (Persero) Tbk Class B</Instrumentnamn>
+        <ISIN-kod_instrument>ID1000129000</ISIN-kod_instrument>
+        <Landkod_Emittent>ID</Landkod_Emittent>
+        <Valuta>IDR</Valuta>
+        <Antal>1764055.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3310.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.00058</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3413059.66</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.34</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HDFC Bank Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>INE040A01034</ISIN-kod_instrument>
+        <Landkod_Emittent>IN</Landkod_Emittent>
+        <Valuta>INR</Valuta>
+        <Antal>6067.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1436.3000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.1124</Valutakurs_instrument>
+        <Marknadsvärde_instrument>979433.89</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.38</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Housing Development Finance Corp Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>INE001A01036</ISIN-kod_instrument>
+        <Landkod_Emittent>IN</Landkod_Emittent>
+        <Valuta>INR</Valuta>
+        <Antal>37371.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2558.6500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.1124</Valutakurs_instrument>
+        <Marknadsvärde_instrument>10747354.44</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.22</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Infosys Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>INE009A01021</ISIN-kod_instrument>
+        <Landkod_Emittent>IN</Landkod_Emittent>
+        <Valuta>INR</Valuta>
+        <Antal>20372.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1255.8000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.1124</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2875478.44</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.13</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Kotak Mahindra Bank Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>INE237A01028</ISIN-kod_instrument>
+        <Landkod_Emittent>IN</Landkod_Emittent>
+        <Valuta>INR</Valuta>
+        <Antal>9921.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1995.6000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.1124</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2225281.28</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.87</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Lupin Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>INE326A01037</ISIN-kod_instrument>
+        <Landkod_Emittent>IN</Landkod_Emittent>
+        <Valuta>INR</Valuta>
+        <Antal>11568.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>976.8500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.1124</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1270112.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.50</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Nestle India Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>INE239A01016</ISIN-kod_instrument>
+        <Landkod_Emittent>IN</Landkod_Emittent>
+        <Valuta>INR</Valuta>
+        <Antal>162.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>18390.2500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.1124</Valutakurs_instrument>
+        <Marknadsvärde_instrument>334856.41</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.13</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Suzuki Motor Corp</Instrumentnamn>
+        <ISIN-kod_instrument>JP3397200001</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>6500.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>4782.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.07954</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2472487.28</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.97</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Kakao Corp</Instrumentnamn>
+        <ISIN-kod_instrument>KR7035720002</ISIN-kod_instrument>
+        <Landkod_Emittent>KR</Landkod_Emittent>
+        <Valuta>KRW</Valuta>
+        <Antal>352.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>389500.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.00756</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1036526.69</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LG Household Health Care Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>KR7051900009</ISIN-kod_instrument>
+        <Landkod_Emittent>KR</Landkod_Emittent>
+        <Valuta>KRW</Valuta>
+        <Antal>133.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1620000.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.00756</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1628909.73</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.64</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Macquarie Korea Infrastructure Ord</Instrumentnamn>
+        <ISIN-kod_instrument>KR7088980008</ISIN-kod_instrument>
+        <Landkod_Emittent>KR</Landkod_Emittent>
+        <Valuta>KRW</Valuta>
+        <Antal>16366.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10650.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.00756</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1317718.12</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NAVER Corp</Instrumentnamn>
+        <ISIN-kod_instrument>KR7035420009</ISIN-kod_instrument>
+        <Landkod_Emittent>KR</Landkod_Emittent>
+        <Valuta>KRW</Valuta>
+        <Antal>1827.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>292500.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.00756</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4040124.8</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.59</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NCsoft Corp</Instrumentnamn>
+        <ISIN-kod_instrument>KR7036570000</ISIN-kod_instrument>
+        <Landkod_Emittent>KR</Landkod_Emittent>
+        <Valuta>KRW</Valuta>
+        <Antal>577.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>931000.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.00756</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4061213.83</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.59</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Samsung Electronics Co Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>KR7005930003</ISIN-kod_instrument>
+        <Landkod_Emittent>KR</Landkod_Emittent>
+        <Valuta>KRW</Valuta>
+        <Antal>29473.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>81000.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.00756</Valutakurs_instrument>
+        <Marknadsvärde_instrument>18048442.31</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>7.08</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Samsung Life Insurance Co Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>KR7032830002</ISIN-kod_instrument>
+        <Landkod_Emittent>KR</Landkod_Emittent>
+        <Valuta>KRW</Valuta>
+        <Antal>1246.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>79100.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.00756</Valutakurs_instrument>
+        <Marknadsvärde_instrument>745117.71</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.29</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SK Telecom Co Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>KR7017670001</ISIN-kod_instrument>
+        <Landkod_Emittent>KR</Landkod_Emittent>
+        <Valuta>KRW</Valuta>
+        <Antal>579.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>238000.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.00756</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1041803.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Ascendas REIT</Instrumentnamn>
+        <ISIN-kod_instrument>SG1M77906915</ISIN-kod_instrument>
+        <Landkod_Emittent>SG</Landkod_Emittent>
+        <Valuta>SGD</Valuta>
+        <Antal>77126.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2.9800000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.214</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1428197.13</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.56</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CP All Public Company Limited</Instrumentnamn>
+        <ISIN-kod_instrument>TH0737010Y16</ISIN-kod_instrument>
+        <Landkod_Emittent>TH</Landkod_Emittent>
+        <Valuta>THB</Valuta>
+        <Antal>88789.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>58.2500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.27412</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1417730.61</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.56</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Airtac International Group</Instrumentnamn>
+        <ISIN-kod_instrument>KYG014081064</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>TWD</Valuta>
+        <Antal>2000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>900.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.29228</Valutakurs_instrument>
+        <Marknadsvärde_instrument>526110.27</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.21</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Asmedia Technology Inc</Instrumentnamn>
+        <ISIN-kod_instrument>TW0005269005</ISIN-kod_instrument>
+        <Landkod_Emittent>TW</Landkod_Emittent>
+        <Valuta>TWD</Valuta>
+        <Antal>977.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1570.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.29228</Valutakurs_instrument>
+        <Marknadsvärde_instrument>448330.71</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.18</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Aspeed Technology Inc</Instrumentnamn>
+        <ISIN-kod_instrument>TW0005274005</ISIN-kod_instrument>
+        <Landkod_Emittent>TW</Landkod_Emittent>
+        <Valuta>TWD</Valuta>
+        <Antal>1000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1715.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.29228</Valutakurs_instrument>
+        <Marknadsvärde_instrument>501266.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.20</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>E. Sun Financial Holding Co Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>TW0002884004</ISIN-kod_instrument>
+        <Landkod_Emittent>TW</Landkod_Emittent>
+        <Valuta>TWD</Valuta>
+        <Antal>60000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>25.5500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.29228</Valutakurs_instrument>
+        <Marknadsvärde_instrument>448070.58</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.18</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MediaTek Inc</Instrumentnamn>
+        <ISIN-kod_instrument>TW0002454006</ISIN-kod_instrument>
+        <Landkod_Emittent>TW</Landkod_Emittent>
+        <Valuta>TWD</Valuta>
+        <Antal>7000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>747.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.29228</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1528350.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.60</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Parade Technologies Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>KYG6892A1085</ISIN-kod_instrument>
+        <Landkod_Emittent>TW</Landkod_Emittent>
+        <Valuta>TWD</Valuta>
+        <Antal>874.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1110.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.29228</Valutakurs_instrument>
+        <Marknadsvärde_instrument>283555.9</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.11</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Silergy Corp</Instrumentnamn>
+        <ISIN-kod_instrument>KYG8190F1028</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>TWD</Valuta>
+        <Antal>1000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2410.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.29228</Valutakurs_instrument>
+        <Marknadsvärde_instrument>704403.19</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.28</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Taiwan Semiconductor Manufacturing Co Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>TW0002330008</ISIN-kod_instrument>
+        <Landkod_Emittent>TW</Landkod_Emittent>
+        <Valuta>TWD</Valuta>
+        <Antal>76000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>530.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.29228</Valutakurs_instrument>
+        <Marknadsvärde_instrument>11773178.66</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Alibaba Group Holding Ltd ADR</Instrumentnamn>
+        <ISIN-kod_instrument>US01609W1027</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>3862.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>232.7300000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7381518.84</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.90</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Autohome Inc ADR</Instrumentnamn>
+        <ISIN-kod_instrument>US05278C1071</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>4356.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.6200000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3563817.88</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.40</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BB Seguridade Participacoes SA</Instrumentnamn>
+        <ISIN-kod_instrument>US05541J1034</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>65141.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>5.7900000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3097519.71</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.22</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Cognizant Technology Solutions Corp A</Instrumentnamn>
+        <ISIN-kod_instrument>US1924461023</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>6420.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>81.9500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4320809.11</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.70</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EPAM Systems Inc</Instrumentnamn>
+        <ISIN-kod_instrument>US29414B1044</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>797.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>358.3500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2345561.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.92</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Estee Lauder Companies Inc Class A</Instrumentnamn>
+        <ISIN-kod_instrument>US5184391044</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1431.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>266.1900000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3128329.31</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.23</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Fomento Economico Mexicano SAB de CV ADR</Instrumentnamn>
+        <ISIN-kod_instrument>US3444191064</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>5034.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>75.7700000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3132503.7</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.23</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HDFC Bank Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>US40415F1012</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>12299.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>72.2600000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7298756.12</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.86</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Infosys Ltd ADR</Instrumentnamn>
+        <ISIN-kod_instrument>US4567881085</ISIN-kod_instrument>
+        <Landkod_Emittent>IN</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>28978.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>16.9500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4033844.98</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.58</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JD.com Inc ADR</Instrumentnamn>
+        <ISIN-kod_instrument>US47215P1066</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>5885.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>87.9000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4248312.31</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.67</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Mail.ru Group Ltd GDR</Instrumentnamn>
+        <ISIN-kod_instrument>US5603172082</ISIN-kod_instrument>
+        <Landkod_Emittent>VG</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>5646.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>26.3000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1219488.52</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.48</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MercadoLibre Inc</Instrumentnamn>
+        <ISIN-kod_instrument>US58733R1023</ISIN-kod_instrument>
+        <Landkod_Emittent>AR</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>602.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1675.2200000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8282270.95</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.25</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Monolithic Power Systems Inc</Instrumentnamn>
+        <ISIN-kod_instrument>US6098391054</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>772.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>366.2300000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2321947.05</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.91</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NetEase Inc ADR</Instrumentnamn>
+        <ISIN-kod_instrument>US64110W1027</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>7420.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>95.7700000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5835989.29</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.29</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>New Oriental Education Technology Group Inc ADR</Instrumentnamn>
+        <ISIN-kod_instrument>US6475811070</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1404.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>185.8100000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2142482.51</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.84</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NVIDIA Corp</Instrumentnamn>
+        <ISIN-kod_instrument>US67066G1040</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>811.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>522.2000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3478073.98</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.36</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Polyus PJSC ADR</Instrumentnamn>
+        <ISIN-kod_instrument>US73181M1172</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>2673.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.8000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2212791.96</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.87</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sea Ltd ADR</Instrumentnamn>
+        <ISIN-kod_instrument>US81141R1005</ISIN-kod_instrument>
+        <Landkod_Emittent>SG</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>3226.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>199.0500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5273605.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.07</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Taiwan Semiconductor Manufacturing Co Ltd ADR</Instrumentnamn>
+        <ISIN-kod_instrument>US8740391003</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>4998.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>109.0400000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4475722.87</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.76</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Yandex NV Class A</Instrumentnamn>
+        <ISIN-kod_instrument>NL0009805522</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>3751.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>69.5800000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.21261</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2143446.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.84</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Discovery Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>ZAE000022331</ISIN-kod_instrument>
+        <Landkod_Emittent>ZA</Landkod_Emittent>
+        <Valuta>ZAR</Valuta>
+        <Antal>28611.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>153.5400000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.55911</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2456120.12</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.96</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MultiChoice Group Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>ZAE000265971</ISIN-kod_instrument>
+        <Landkod_Emittent>ZA</Landkod_Emittent>
+        <Valuta>ZAR</Valuta>
+        <Antal>6700.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>134.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.55911</Valutakurs_instrument>
+        <Marknadsvärde_instrument>501966.38</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.20</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Naspers Ltd Class N</Instrumentnamn>
+        <ISIN-kod_instrument>ZAE000015889</ISIN-kod_instrument>
+        <Landkod_Emittent>ZA</Landkod_Emittent>
+        <Valuta>ZAR</Valuta>
+        <Antal>2451.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3019.3500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.55911</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4137631.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sanlam Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>ZAE000070660</ISIN-kod_instrument>
+        <Landkod_Emittent>ZA</Landkod_Emittent>
+        <Valuta>ZAR</Valuta>
+        <Antal>111374.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>58.7500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.55911</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3658362.34</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.44</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

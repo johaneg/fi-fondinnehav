@@ -1,0 +1,785 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2021-09-30</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>Swedbank Robur Fonder AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58075</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>549300NXP7NMRCRG3P34</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>60218</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0002135558</Fond_ISIN-kod>
+    <Fond_namn>Swedbank Robur Bas 75</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Bas 75 A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.20</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>20769610369</Fondförmögenhet>
+    <Likvida_medel>937264277</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-9096182</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>3.85</Aktiv_risk>
+    <Standardavvikelse_24_månader>14.04</Standardavvikelse_24_månader>
+    <Jämförelseindex>MSCI All Country World Net 52.50; OMX Stockholm Benchmark Cap Gross 22.50; OMRX Bond All 12.50; OMRX T-Bill 7.50; Markit iBoxx Euro Corporate Overall Total Return 2.50; ICE BofAML BB-B Euro High Yield Constrained 2.50; </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Ethica Obligation A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000602260</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>72805698.4</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>13.67</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>995253897.07</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.79</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Småbolagsfond Global A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000539439</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>7958473.78</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>146.72</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1167667272.8</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>USA A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000539470</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>22979573.65</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>107.33</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2466397639.85</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>11.88</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Räntefond Flexibel A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0005731189</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1343340.77</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>257.11</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>345386345.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.66</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Technology A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000538944</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1164423.92</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>701.03</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>816296097.69</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.93</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Healthcare A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000639445</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>10628162.23</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>30.41</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>323202413.32</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.56</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Småbolagsfond Sverige A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000602302</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>2229856.9</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>269.82</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>601659988.22</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.9</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Lyxor IBOXX $ Liquid Emerging SVRG UCITS ETF</Instrumentnamn>
+        <ISIN-kod_instrument>LU1686830909</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>199343</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>93.885</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.7631</Valutakurs_instrument>
+        <Marknadsvärde_instrument>164004199.31</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.79</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JPMorgan USD Emerging Markets Sovereign Bond UCITS</Instrumentnamn>
+        <ISIN-kod_instrument>IE00BDFC6G93</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>96501</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.09</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.7631</Valutakurs_instrument>
+        <Marknadsvärde_instrument>86332195.45</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.42</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Räntefond Kort Plus A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0005467982</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>2757783.01</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>125.82</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>346984258.26</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.67</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Global Impact A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011167899</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>5149883.3</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>130.07</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>669845321.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.23</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Exportfond A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000602294</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>6984853.17</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>216.55</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1512569952.88</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>7.28</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Global Emerging Markets A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0001912924</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>8545374.22</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>171.47</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1465275316.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>7.05</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Corporate Bond Europe A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0005506300</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>3476815.83</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>146.11</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>507997560.72</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.45</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Europafond A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000539454</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>33680786.25</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>46.32</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1560094018.94</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>7.51</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Globalfond I</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013109519</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>33572923.94</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>39.67</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1331837892.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Ny Teknik A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000709123</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>504577.65</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1819.88</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>918270779.87</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.42</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Transition Energy A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000538969</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>15131881.82</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>20.29</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>307025882.16</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.48</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sverigefond MEGA I</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000537771</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>12888121.07</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>123.54</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1592198477.36</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>7.67</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Xtrackers II USD Emerging Markets Bond UCITS ETF</Instrumentnamn>
+        <ISIN-kod_instrument>LU0677077884</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1120953</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>14.306</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.7631</Valutakurs_instrument>
+        <Marknadsvärde_instrument>140528170.41</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.68</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Corporate Bond Europe High Yield A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011062025</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>4655649.42</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>110.45</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>514216478.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.48</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Fastighet A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000537763</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>6703654.8</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>70.93</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>475490234.77</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.29</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Access Edge Global A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0014429353</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>149828.45</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>128.59</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>19266440.72</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.09</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Japanfond A</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000539413</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>29457532.77</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>13.83</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>407397678.14</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.96</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Ethica Obligation Utd</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000543027</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>9240194.27</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>114.99</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1062529938.64</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.12</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SX7E Dec21 Put 85</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C2YD8N2</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-4143</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.5</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-3154231.62</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.02</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OMX Mar22 Call 2400</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015633045</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1668</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>37.75</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6296700</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.03</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OMX Dec21 Call 2200</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013813003</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>357</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>107.25</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3828825</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.02</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SX7E Dec21 Call 100</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C0JLS71</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>2183</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>4.55</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5041415.83</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.02</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OMX Dec21 Call 2280</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015526744</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>316</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>53.25</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1682700</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SXXPESGX Mar22 Call 185</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C1SN1X3</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>4760</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.06</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5121889.47</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.02</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OMX Dec21 Call 2320</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015610241</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>316</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>34.625</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1094150</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SPX Oct21 Put 4400</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>-70</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>72.6</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.7631</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-4453407.42</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.02</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SX7E Dec21 Call 105</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C2LJPN1</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-5404</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2.7</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-7405706.45</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.04</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SXXPESGX Dec21 Call 170</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C52YRS8</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>5570</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>4.765</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>26942350.68</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.13</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SX7E Dec21 Put 87.5</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C58J9M5</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-2702</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.9</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-2605711.53</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SXXPESGX Oct21 Call 180</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C1NMLJ0</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-1904</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.8</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-1546230.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SX7E Oct21 Call 101</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C1R9EA3</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>1310</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.75</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1163581.3</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SPX Mar22 Call 4500</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>139</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>140.95</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.7631</Valutakurs_instrument>
+        <Marknadsvärde_instrument>17168709.34</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.08</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SXXP Oct21 Put 457.5</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C1NNMR9</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-2380</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>7.7</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-9301544.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.04</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SX7E Dec21 Call 95</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C27MSX3</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>3221</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>7.175</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>11730054.2</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.06</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OMX Oct21 Put 2300</Instrumentnamn>
+        <ISIN-kod_instrument>SE0016265532</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>-805</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>65</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-5232500</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.03</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>STOXX EURO ESG-X  Future 2021-12-17</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C58X5N3</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-415</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-84254.96</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>STOXX EUROPE 600  Future 2021-12-17</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C58X6U6</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>125</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>0</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>S&amp;P500 EMINI  Future 2021-12-17</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>-27</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>5.25</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.7631</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-62108.47</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXFwd-EUR/SEK-20211222</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>-40782000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.1512</Valutakurs_instrument>
+        <Marknadsvärde_instrument>0</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Topix Index Future 2021-12-09</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>-250</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>-8.5</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.07843104</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1666659.6</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXFwd-EUR/SEK-20211222</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>413835789.52</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>-0.126099232</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-521843.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXFwd-USD/SEK-20211222</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal />
+        <Nominellt_belopp>-36000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.7631</Valutakurs_instrument>
+        <Marknadsvärde_instrument>0</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXFwd-USD/SEK-20211222</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>311560380</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>-1.173343232</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-3655672.63</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.02</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

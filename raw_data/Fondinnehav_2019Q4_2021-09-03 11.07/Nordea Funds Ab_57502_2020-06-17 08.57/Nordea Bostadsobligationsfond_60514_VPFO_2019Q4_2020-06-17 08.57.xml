@@ -1,0 +1,598 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2019-12-31</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>Nordea Funds Ab</Fondbolag_namn>
+    <Fondbolag_institutnummer>57502</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>529900EJK6EZ8VHYAT71</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>60514</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0004198703</Fond_ISIN-kod>
+    <Fond_namn>Nordea Bostadsobligationsfond</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Nordea Bostadsobligationsfond icke-utd</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.50</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Nordea Bostadsobligationsfond utd</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.50</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>7914403781</Fondförmögenhet>
+    <Likvida_medel>38128035</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-5748099</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>0.10</Aktiv_risk>
+    <Standardavvikelse_24_månader>0.71</Standardavvikelse_24_månader>
+    <Jämförelseindex>OMRX Mortgage 70; OMRX-TBill 30; </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>City of Gothenburg Sweden FRN 03-06-2020</Instrumentnamn>
+        <ISIN-kod_instrument>XS1073521988</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.164444</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>100164444</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.27</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Swedbank Hypotek AB 1% 15-03-2023</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010133207</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>1200000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.791666666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1233500000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>15.59</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Nordea Hypotek AB 1% 08-04-2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0006991246</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>1200000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.38477775</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1228617333</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>15.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Stadshypotek AB 4.5% 21-09-2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0003174838</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>800000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>112.5565</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>900452000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>11.38</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sparbanken Skane AB FRN 03-10-2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010441477</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>470000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.548541665957</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>477278145.83</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.03</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Landshypotek Bank AB 0.75% 25-05-2023</Instrumentnamn>
+        <ISIN-kod_instrument>XS1824244807</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>398000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.455916665829</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>403794548.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.10</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Lansforsakringar Hypotek AB 1.5% 18-09-2024</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010298190</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>350000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>104.8040</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>366814000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.63</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Lansforsakringar Hypotek AB 1.75% 15-09-2021</Instrumentnamn>
+        <ISIN-kod_instrument>SE0006543328</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>350000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.103416571429</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>360861958</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.56</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Stadshypotek AB 2% 01-09-2028</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011062892</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>300000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>109.741111</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>329223333</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.16</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sveriges Sakerstallda Obliga 0.75% 28-03-2024</Instrumentnamn>
+        <ISIN-kod_instrument>XS1943443769</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>220000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.7005</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>223741100</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.83</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Landshypotek Bank AB 0.615% 18-11-2025</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011870021</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>184000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.253750</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>182626900</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.31</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sparbanken Skane AB FRN 07-05-2024</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011426204</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.9733</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>101973300</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.29</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sparbanken Sjuharad AB 0.765% 04-04-2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012193654</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>200000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.613375</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>201226750</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.54</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Vasakronan AB FRN 11-02-2022</Instrumentnamn>
+        <ISIN-kod_instrument>XS1941844174</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>180000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.624666666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>181124400</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.29</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SBAB Bank AB 1.048% 23-06-2021</Instrumentnamn>
+        <ISIN-kod_instrument>XS1436518606</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>173000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.275377780347</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>175206403.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.21</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SBAB Bank AB FRN 11-10-2022</Instrumentnamn>
+        <ISIN-kod_instrument>XS1697766951</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>144000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.931250</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>145341000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.84</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OP Corporate Bank plc FRN 25-08-2025</Instrumentnamn>
+        <ISIN-kod_instrument>XS1280147569</ISIN-kod_instrument>
+        <Landkod_Emittent>FI</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>140000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.7163</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>141002820</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.78</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DNB Bank ASA FRN 28-05-2025</Instrumentnamn>
+        <ISIN-kod_instrument>XS1239410043</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>140000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.411372285714</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>140575921.20</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.78</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Trelleborg Treasury AB FRN 18-01-2021</Instrumentnamn>
+        <ISIN-kod_instrument>SE0006452009</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>110000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.912788890909</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>111004067.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.40</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Jernhusen AB FRN 15-11-2021</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010599407</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.06481667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>101064816.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.28</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Kraftringen Energi AB FRN 26-10-2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012193696</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.38833333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>100388333.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.27</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SBAB Bank AB FRN 11-06-2025</Instrumentnamn>
+        <ISIN-kod_instrument>XS1245415812</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>84000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.3420</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>84287280</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.06</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Svenska Cellulosa AB SCA FRN 26-11-2020</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011425933</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>78000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.456111115385</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>78355766.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.99</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Investment AB Latour 0.36% 16-11-2020</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010599217</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>66000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.85</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>65901000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.83</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Svenska Handelsbanken AB FRN 15-11-2027</Instrumentnamn>
+        <ISIN-kod_instrument>XS1717459694</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>65000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.419150</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>65272447.50</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.82</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Nordea Bank Abp 0.175% 05-09-2022</Instrumentnamn>
+        <ISIN-kod_instrument>XS2050536890</ISIN-kod_instrument>
+        <Landkod_Emittent>FI</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>60000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>98.618902783333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>59171341.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.75</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Lansforsakringar Bank AB FRN 26-04-2026</Instrumentnamn>
+        <ISIN-kod_instrument>SE0008294474</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>53000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.129777773585</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>54128782.22</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.68</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Volvofinans Bank AB FRN 27-09-2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010101915</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>50000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.32465556</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>50662327.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.64</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Volvo Treasury AB FRN 19-05-2022</Instrumentnamn>
+        <ISIN-kod_instrument>XS1911746078</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>50000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.660866</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>50330433</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.64</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Lansforsakringar Bank AB FRN 01-03-2028</Instrumentnamn>
+        <ISIN-kod_instrument>XS1783217067</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>50000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.7855</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>49892750</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.63</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sveaskog AB 1.49% 01-03-2021</Instrumentnamn>
+        <ISIN-kod_instrument>SE0008092795</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>40000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.36352750</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>40945411</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Hemso Fastighets AB FRN 03-06-2021</Instrumentnamn>
+        <ISIN-kod_instrument>SE0008406235</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>40000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.36511110</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>40546044.44</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.51</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sparbanken Skane AB FRN 21-10-2024</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013103744</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>40000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.215850</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>40086340</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.51</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

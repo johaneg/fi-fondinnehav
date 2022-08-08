@@ -1,0 +1,625 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2020-09-30</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>Quartile Fonder AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>59020</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>2138001S86SS4VB66W08</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>61059</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0011721349</Fond_ISIN-kod>
+    <Fond_namn>Kvartil Allokering Balans</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Kvartil Allokering Balans A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.30</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Kvartil Allokering Balans B</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.20</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>398686175</Fondförmögenhet>
+    <Likvida_medel>39901572</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>0</Övriga_tillgångar_och_skulder>
+    <Standardavvikelse_24_månader>3.63</Standardavvikelse_24_månader>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AMF Räntefond Lång</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000739187</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>56892.273600000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>151.200000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8602111.77</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.16</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ISHARES PHYSICAL GOLD ETC</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B4ND3602</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>70732.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>37.122500</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>23493965.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.89</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Precious Metals Minerals</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AMUNDI INDEX FTSE EPRA NAREIT GLOBAL</Instrumentnamn>
+        <ISIN-kod_instrument>LU1437018838</ISIN-kod_instrument>
+        <Landkod_Emittent>FR</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>13914.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>58.018999</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7223129.50</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.81</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AMUNDI MSCI EM ASIA UCITS</Instrumentnamn>
+        <ISIN-kod_instrument>LU1681044563</ISIN-kod_instrument>
+        <Landkod_Emittent>FR</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>64725.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>38.059999</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>22041645.14</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.53</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INVESCO BBG COMMODITY ETF</Instrumentnamn>
+        <ISIN-kod_instrument>IE00BD6FTQ80</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>122276.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>14.891299</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>16292097.46</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.09</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Commodity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ISHARES CORE EM IMI ACC</Instrumentnamn>
+        <ISIN-kod_instrument>IE00BKM4GZ66</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>36269.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>29.930000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9712822.71</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.44</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ISHARES CORE SP 500</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B5BMR087</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>15744.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>339.619999</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>47842239.62</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>12.00</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ISHARES EURO LINKERS GOVT</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B0M62X26</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>1530.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>218.710000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.487240000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3509306.32</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.88</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ISHARES FTSE 100 ACC</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B53HP851</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>10743.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>98.479999</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.559900000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>12230034.80</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.07</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ISHARES GILTS LINKERS GOVT</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B1FZSD53</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>5418.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>20.174999</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.559900000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1263591.28</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.32</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ISHARES JPM EM LCL GOV USD-A</Instrumentnamn>
+        <ISIN-kod_instrument>IE00BFZPF546</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>427398.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>5.008250</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>19152331.43</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.80</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Rates</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ISHARES US AGG BND USD ACC</Instrumentnamn>
+        <ISIN-kod_instrument>IE00BYXYYM63</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>782449.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>5.865000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>41060782.31</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>10.30</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Rates</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LYXOR US TIPS GOVT</Instrumentnamn>
+        <ISIN-kod_instrument>LU1452600270</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>8536.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>114.535000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8747738.46</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.19</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SPDR BBG EURO AGGREGATE</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B41RYL63</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>27341.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>64.667999</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.487240000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>18542360.97</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.65</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Rates</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SPDR MSTR MLT AST GLOB INFRA</Instrumentnamn>
+        <ISIN-kod_instrument>IE00BQWJFQ70</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>30891.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>34.449999</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9521916.24</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.39</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Infrastructure</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VANGUARD UK GILT ETF</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B42WWV65</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>29320.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>25.895000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.559900000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8776754.66</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.20</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Rates</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>X EURO STOXX 50 1C</Instrumentnamn>
+        <ISIN-kod_instrument>LU0380865021</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>44329.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>48.354999</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.487240000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>22479700.92</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.64</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>X GLBAL INFLATION LINKED 5C</Instrumentnamn>
+        <ISIN-kod_instrument>LU0908508814</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>68438.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>23.644000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.487240000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>16969907.19</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.26</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Index Linked</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>X MSCI EUROPE SMALL CAP</Instrumentnamn>
+        <ISIN-kod_instrument>LU0322253906</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>9044.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>43.550000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.487240000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4130569.37</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.04</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>X MSCI PACIFIC EX JAPAN 1C</Instrumentnamn>
+        <ISIN-kod_instrument>LU0322252338</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>6869.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>57.605000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3540436.92</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.89</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>X NIKKEI 225</Instrumentnamn>
+        <ISIN-kod_instrument>LU0839027447</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>88112.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2425.999999</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.084810000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>18128961.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.55</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>X RUSSELL 2000</Instrumentnamn>
+        <ISIN-kod_instrument>IE00BJZ2DD79</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>8109.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>214.814999</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>15586014.19</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.91</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>XACT OBLIGATION UCITS ETF</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007491287</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>21247.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>104.610000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2222648.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.56</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Rates</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>XACT OMXS30</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000693293</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>84539.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>231.250000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>19549643.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.90</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Equity</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EUR FX Forward 20201001</Instrumentnamn>
+        <ISIN-kod_instrument>EZ3FHFMH6D46</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-4931800.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.007181</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.487240000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-371418.79</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.09</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EUR FX Forward 20201008</Instrumentnamn>
+        <ISIN-kod_instrument>EZFZ0MMH2BS4</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-4915000.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>-0.003141</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.487240000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>161919.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.04</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EUR FX SWAP 20201001</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>4904500.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>-0.003148</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.487240000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-161926.97</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.04</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GBP FX Forward 20201001</Instrumentnamn>
+        <ISIN-kod_instrument>EZQFL31FS6R5</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>-1245700.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.019249</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.559900000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-277203.13</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.07</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GBP FX Forward 20201008</Instrumentnamn>
+        <ISIN-kod_instrument>EZ9DHT42YZV2</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>-1279700.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.001410</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.559900000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-20869.35</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GBP FX SWAP 20201001</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>1217000.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.001430</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.559900000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>20119.44</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JPY FX Forward 20201001</Instrumentnamn>
+        <ISIN-kod_instrument>EZ1W8S19ZQF1</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>-84758800.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.003364</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.084810000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-24187.62</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JPY FX Forward 20201008</Instrumentnamn>
+        <ISIN-kod_instrument>EZ2LB1KZK0M6</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>-87770000.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>-0.003547</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.084810000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>26409.59</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JPY FX SWAP 20201001</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>84758800.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>-0.002841</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.084810000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-20426.87</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NIKKEI 225 MINI - Dec20</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>30.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.084810000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>0.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.00</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SP500 E-mini - Dec20</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>32.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>0.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.00</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>USD FX Forward 20201001</Instrumentnamn>
+        <ISIN-kod_instrument>EZ10W2KL6T79</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>-16425500.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.008007</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-1176870.66</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.30</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>USD FX Forward 20201008</Instrumentnamn>
+        <ISIN-kod_instrument>EZ5G1WVYGB50</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>-16483200.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>-0.005094</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>751320.79</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.19</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>USD FX SWAP 20201001</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>16346700.000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>-0.005079</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.947530000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-742973.85</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.19</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

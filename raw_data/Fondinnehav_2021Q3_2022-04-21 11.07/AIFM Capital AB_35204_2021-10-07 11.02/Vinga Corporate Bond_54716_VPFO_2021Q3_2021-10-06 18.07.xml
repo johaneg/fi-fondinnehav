@@ -1,0 +1,856 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2021-09-30</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>AIFM Capital AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>35204</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>549300SQP0ENF6G7RH57</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>54716</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0013775335</Fond_ISIN-kod>
+    <Fond_namn>Vinga Corporate Bond</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>VINGA CORPORATE BOND A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.65</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>OMRX TBILL+2%</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>VINGA CORPORATE BOND B</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.65</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>OMRX TBILL</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>VINGA CORPORATE BOND C</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.25</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>OMRX TBILL+2%</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>VINGA CORPORATE BOND D</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.65</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>OMRX TBILL+2%</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>140622161</Fondförmögenhet>
+    <Likvida_medel>13957954</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-4567652</Övriga_tillgångar_och_skulder>
+    <Standardavvikelse_24_månader>0.00</Standardavvikelse_24_månader>
+    <Jämförelseindex>
+      <Jämförelseindex>OMRX T-BILL +2%</Jämförelseindex>
+    </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HUMBLE FLOAT 072125</Instrumentnamn>
+        <ISIN-kod_instrument>SE0016273742</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6250000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>105.627083333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6601692.71</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.69</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HOFISS 8 PERP</Instrumentnamn>
+        <ISIN-kod_instrument>XS1833088237</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>200000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>98.6444444444444</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1999522.89</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.42</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JOTGRP FL 052825</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010998586</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5600000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.138027777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.0023</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5676756.13</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.04</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LAKGRP FLOAT 060925</Instrumentnamn>
+        <ISIN-kod_instrument>NO0011017113</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2300000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.722916666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.0023</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2368061.13</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.68</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JOTLAS F 100624</Instrumentnamn>
+        <ISIN-kod_instrument>NO0011104069</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>3750000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.0023</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3758625</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.67</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HOFISS 8 5/8 PERP</Instrumentnamn>
+        <ISIN-kod_instrument>XS1538294890</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>200000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.119643835616</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2049695.18</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.46</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GRNTVT F 092324</Instrumentnamn>
+        <ISIN-kod_instrument>NO0011094658</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4900000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.19</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.0023</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4920601.41</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.5</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GEORGJ FLOAT 05/15/2</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011167204</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>300000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.823</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3065523.31</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.18</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GSFNO FLOAT 25.06.25</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010885007</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>3000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.4296666666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.0023</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2989750.65</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.13</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Dagligvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HOFISS 7 3/4 PERP</Instrumentnamn>
+        <ISIN-kod_instrument>XS2121223353</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>200000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.586301369863</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2038884.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.45</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HKSAV 5 03/24/25</Instrumentnamn>
+        <ISIN-kod_instrument>FI4000490990</ISIN-kod_instrument>
+        <Landkod_Emittent>FI</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.720333333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5154677.89</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.67</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Dagligvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MEDGAM 0 11/27/24</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015194527</ISIN-kod_instrument>
+        <Landkod_Emittent>MT</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.295027777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5234475.53</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.72</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Telekomoperatörer</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SENKGR F 120122</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011256338</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4999995</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>98.54165</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4927077.57</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.5</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SEAFSS FLOAT 030224</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015245758</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>2500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>104.764111111111</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2619102.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.86</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SOLISB FLOAT 1/06/24</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010914914</ISIN-kod_instrument>
+        <Landkod_Emittent>IR</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>300000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.351777777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3142410.8</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.23</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>STUDBO 0 051424</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015960802</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>3750000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.4595</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3804731.25</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.71</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>STROMA F 11/27/22</Instrumentnamn>
+        <ISIN-kod_instrument>SE0008322333</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>93.1300555555556</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4656502.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.31</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SCBGAS FLOAT</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015812441</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>3750000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.615177777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3773069.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.68</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>PSKYME F 112724</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010907348</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>3000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>104.045777777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.0023</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3128552.49</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.22</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NOHLCR F 052725</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010997943</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>4000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.976777777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4119071.11</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.93</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>REIVLT 8 11/30/23</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015195847</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>1250000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.634333333333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1257929.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.89</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SCANBD FLOAT 110424</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013101219</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>700000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.72975</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7288162.11</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.18</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SCANBD 7 040825</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015810759</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>104.556277777778</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1059677.88</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.75</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DDMDEB 9 041926</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015797683</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>106.681</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5406059.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.84</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DSNHOL F 121624</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015242839</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.110888888889</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5105544.44</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.63</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EPNENG 6 1/8 092220</Instrumentnamn>
+        <ISIN-kod_instrument>DK0030470919</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>200000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.544246575342</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2078571.88</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.48</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>10</Branschkod_instrument>
+          <Bransch_namn_instrument>Energi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AZRION 7 042824</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015837794</ISIN-kod_instrument>
+        <Landkod_Emittent>NL</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>600000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>104.438611111111</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6350911.94</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ADVNZI 0 PERP</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010955891</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>1500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>104.496166666667</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.0023</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1571047.62</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.12</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ARION 6 1/4 PERP</Instrumentnamn>
+        <ISIN-kod_instrument>XS2125141445</ISIN-kod_instrument>
+        <Landkod_Emittent>IS</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal />
+        <Nominellt_belopp>500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.129315068493</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.7513</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4425064.87</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.15</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>REIVLT 9 07/05/22</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012741064</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>3750000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.026</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3750975</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.67</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LEAXGR F 052922</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011088954</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.361194444444</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5068059.72</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.6</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FMGNO FLOAT 092022</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010863350</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>3000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.020555555556</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.0023</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3007518.08</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.14</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BAYPRT 11 06/14/22</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010856180</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal />
+        <Nominellt_belopp>500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.633739726027</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.7513</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4447136.73</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.16</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>YDHDG FLOAT 06/18/22</Instrumentnamn>
+        <ISIN-kod_instrument>SE0005990835</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>92.4441111111111</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4622205.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.29</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FX EUR/SEK 220117SWP</Instrumentnamn>
+        <ISIN-kod_instrument>EZDZ05Z2LC59</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>5100000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.1493299367039</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-68785.66</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.05</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EUR/SEK SWP 211029</Instrumentnamn>
+        <ISIN-kod_instrument>EZ32YXJH4WQ6</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-70000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.1384077711248</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>50.14</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EUR/SEK SWP 211029 2</Instrumentnamn>
+        <ISIN-kod_instrument>EZNX10MXC8H3</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-250000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.1384077711248</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5066.41</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXNOK/SEK 211029 SWP</Instrumentnamn>
+        <ISIN-kod_instrument>EZBLY6THYF79</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal>-4700000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.0018693176959</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.0023</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-148077.96</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.11</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXEUR/SEK SWP211230</Instrumentnamn>
+        <ISIN-kod_instrument>EZVZ6NW701B7</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-100000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.1468701482687</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3232.95</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXEUR/SEK SWP211130</Instrumentnamn>
+        <ISIN-kod_instrument>EZ70MV4CB5M1</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-500000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.1427734715755</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>82428.46</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.06</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXSEK/NOK SW211230</Instrumentnamn>
+        <ISIN-kod_instrument>EZGKSG6H3JX8</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal>-5000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.0008026691128</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.0023</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-32903.04</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.02</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXNOK/SEK 220131 SWP</Instrumentnamn>
+        <ISIN-kod_instrument>EZSRKZBLJMK0</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal>-12400000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.00025294431918</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.0023</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-41361.38</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.03</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXNOK/SEK 211230 SWP</Instrumentnamn>
+        <ISIN-kod_instrument>EZ770KR4F9V7</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal>-4600000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.0008026691128</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.0023</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-50642.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.04</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXEUR/SEK SWP 211130</Instrumentnamn>
+        <ISIN-kod_instrument>EZ5SMQPN61S4</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-921000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.1427734715755</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>31298.99</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.02</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXEUR/SEK 220131 SWP</Instrumentnamn>
+        <ISIN-kod_instrument>EZ8CFK9981D2</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-1670000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.1512440305701</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>102369.2</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.07</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FX USD/SEK 211230SWP</Instrumentnamn>
+        <ISIN-kod_instrument>EZ0QN4TSBTD1</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>-700000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>8.74730409910387</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.7513</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-109951.45</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.08</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FX USD/SEK 211029SWP</Instrumentnamn>
+        <ISIN-kod_instrument>EZRMLKKMCXK4</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>-310000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>8.75015149555943</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.7513</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-75454.46</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.05</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXEUR/SEK SW211230 3</Instrumentnamn>
+        <ISIN-kod_instrument>EZ2Q3RBNF7J8</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-100000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.1468701482687</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2575.15</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXEUR/SEK SW211230 2</Instrumentnamn>
+        <ISIN-kod_instrument>EZ0VQC0P33K2</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-100000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.1468701482687</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2933.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FXEUR/SEK SW211230</Instrumentnamn>
+        <ISIN-kod_instrument>EZF4YCKV1269</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-650000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.1468701482687</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.135</Valutakurs_instrument>
+        <Marknadsvärde_instrument>61432.36</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.04</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

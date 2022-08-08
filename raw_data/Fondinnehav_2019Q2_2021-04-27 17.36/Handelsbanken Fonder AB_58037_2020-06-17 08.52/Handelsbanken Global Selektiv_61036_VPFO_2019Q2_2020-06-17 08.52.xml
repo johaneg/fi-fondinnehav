@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2019-06-30</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>Handelsbanken Fonder AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58037</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>549300RJTULO02U5ZG71</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>61036</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0011336783</Fond_ISIN-kod>
+    <Fond_namn>Handelsbanken Global Selektiv</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv A1 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.85</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv A1 NOK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.85</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv A9 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.95</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv A9 EUR</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.95</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv A10 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.60</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv B1 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.85</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv B1 EUR</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.85</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv B10 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.60</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv A1 EUR</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.85</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv A10 NOK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.60</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv B9 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.95</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv B9 EUR</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.95</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv A10 EUR</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.60</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Global Selektiv B10 EUR</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.60</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>2748700780</Fondförmögenhet>
+    <Likvida_medel>67113776</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-15648965</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>3.63</Aktiv_risk>
+    <Standardavvikelse_24_månader>11.9800000000</Standardavvikelse_24_månader>
+    <Jämförelseindex>
+      <Jämförelseindex>Solactive ISS ESG Global Markets</Jämförelseindex>
+    </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AI FP</Instrumentnamn>
+        <ISIN-kod_instrument>FR0000120073</ISIN-kod_instrument>
+        <Landkod_Emittent>FR</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>150000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>123.0500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.56601416000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>195022206.36</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>7.1000000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>UNH US</Instrumentnamn>
+        <ISIN-kod_instrument>US91324P1021</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>500.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>244.0100000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.27820000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1131986.79</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0400000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GEM AU</Instrumentnamn>
+        <ISIN-kod_instrument>AU000000GEM7</ISIN-kod_instrument>
+        <Landkod_Emittent>AU</Landkod_Emittent>
+        <Valuta>AUD</Valuta>
+        <Antal>1796660.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3.0300000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.51097685000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>35444975.35</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.2900000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpsvaror och -tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BNZL LN</Instrumentnamn>
+        <ISIN-kod_instrument>GB00B0744B38</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>270365.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>20.7700000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.80836514000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>66309650.68</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.4100000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och -tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>UNH US</Instrumentnamn>
+        <ISIN-kod_instrument>US91324P1021</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>79500.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>244.0100000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.27820000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>179985899.77</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.5500000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TJX Comp</Instrumentnamn>
+        <ISIN-kod_instrument>US8725401090</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>197415.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>52.8800000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.27820000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>96857961.51</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.5200000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpsvaror och -tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Tencent</Instrumentnamn>
+        <ISIN-kod_instrument>KYG875721634</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>435700.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>352.6000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.18760960000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>182449873.86</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.6400000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Telekomoperatörer</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SAP GY</Instrumentnamn>
+        <ISIN-kod_instrument>DE0007164600</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>157000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>120.7600000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.56601416000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>200324443.58</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>7.2900000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Rockwell (New)</Instrumentnamn>
+        <ISIN-kod_instrument>US7739031091</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>65000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>163.8300000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.27820000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>98803087.89</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.5900000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och -tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>RB/ LN</Instrumentnamn>
+        <ISIN-kod_instrument>GB00B24CGK77</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>155000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>62.1400000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.80836514000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>113734630.52</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.1400000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Dagligvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>PRU LN</Instrumentnamn>
+        <ISIN-kod_instrument>GB0007099541</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>550000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>17.1600000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.80836514000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>111447350.19</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.0500000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans och fastighet</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NOVOB DC</Instrumentnamn>
+        <ISIN-kod_instrument>DK0060534915</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>DKK</Valuta>
+        <Antal>277365.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>334.5000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.41565456200000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>131342437.74</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.7800000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Nike Inc Cl B</Instrumentnamn>
+        <ISIN-kod_instrument>US6541061031</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>120600.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>83.9500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.27820000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>93935929.73</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.4200000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpsvaror och -tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Mastercard</Instrumentnamn>
+        <ISIN-kod_instrument>US57636Q1040</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>46252.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>264.5300000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.27820000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>113519162.60</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.1300000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LR FP</Instrumentnamn>
+        <ISIN-kod_instrument>FR0010307819</ISIN-kod_instrument>
+        <Landkod_Emittent>FR</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>150379.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>64.3000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.56601416000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>102166697.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.7200000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och -tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Lauder Estee</Instrumentnamn>
+        <ISIN-kod_instrument>US5184391044</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>43195.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>183.1100000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.27820000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>73385333.27</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.6700000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Dagligvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Keyence Corp</Instrumentnamn>
+        <ISIN-kod_instrument>JP3236200006</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>19900.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>66130.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.08611657700000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>113328295.74</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.1200000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Intuit</Instrumentnamn>
+        <ISIN-kod_instrument>US4612021034</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>39850.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>261.3300000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.27820000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>96623179.44</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.5200000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GEM AU</Instrumentnamn>
+        <ISIN-kod_instrument>AU000000GEM7</ISIN-kod_instrument>
+        <Landkod_Emittent>AU</Landkod_Emittent>
+        <Valuta>AUD</Valuta>
+        <Antal>250001.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3.0300000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.51097685000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4932084.69</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.1800000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpsvaror och -tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CPG LN</Instrumentnamn>
+        <ISIN-kod_instrument>GB00BD6K4575</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>349836.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>18.8700000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.80836514000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>77951804.46</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.8400000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpsvaror och -tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>COOPER CO INC</Instrumentnamn>
+        <ISIN-kod_instrument>US2166484020</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>30400.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>336.8900000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.27820000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>95022277.06</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.4600000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Church &amp; Dwight</Instrumentnamn>
+        <ISIN-kod_instrument>US1713401024</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>115752.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>73.0600000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.27820000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>78464263.28</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.8500000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Dagligvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CAP FP</Instrumentnamn>
+        <ISIN-kod_instrument>FR0000125338</ISIN-kod_instrument>
+        <Landkod_Emittent>FR</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>91000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>109.3500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.56601416000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>105140822.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.8300000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BNZL LN</Instrumentnamn>
+        <ISIN-kod_instrument>GB00B0744B38</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>69231.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>20.7700000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.80836514000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>16979577.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.6200000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och -tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Avi</Instrumentnamn>
+        <ISIN-kod_instrument>ZAE000049433</ISIN-kod_instrument>
+        <Landkod_Emittent>ZA</Landkod_Emittent>
+        <Valuta>ZAR</Valuta>
+        <Antal>599200.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>91.3600000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.65797003800000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>36019195.90</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.3100000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>30</Branschkod_instrument>
+          <Bransch_namn_instrument>Dagligvaror</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Automatic Data</Instrumentnamn>
+        <ISIN-kod_instrument>US0530151036</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>57894.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>165.3300000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.27820000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>88807358.48</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.2300000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AIA Group Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>HK0000069689</ISIN-kod_instrument>
+        <Landkod_Emittent>HK</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>1880000.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>84.2500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.18760960000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>188105484.54</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.8400000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans och fastighet</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

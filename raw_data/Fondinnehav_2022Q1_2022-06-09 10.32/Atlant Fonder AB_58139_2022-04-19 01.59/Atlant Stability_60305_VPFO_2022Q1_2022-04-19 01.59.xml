@@ -1,0 +1,965 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2022-03-31</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>Atlant Fonder AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58139</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>213800CB62OJ7PACC335</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>60305</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0002623553</Fond_ISIN-kod>
+    <Fond_namn>Atlant Stability</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Atlant Stability - A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.50</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>SSVX 90 subject to HWM</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>1616040574</Fondförmögenhet>
+    <Likvida_medel>230983858</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-10603846</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>2.55</Aktiv_risk>
+    <Standardavvikelse_24_månader>2.56</Standardavvikelse_24_månader>
+    <Jämförelseindex>
+      <Jämförelseindex>1069 SSVX 90</Jämförelseindex>
+    </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>COMPACTOR FASTIG FRN 24.09.23</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013914629</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>23750000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>98.9709</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>23505594.69</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.45</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CABONLINE GROUP FRN 19.04.2026</Instrumentnamn>
+        <ISIN-kod_instrument>SE0017767346</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6250000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.75</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6359375</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.39</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BULK INDUSTRIER FRN 14.07.2023</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010886922</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>18000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.9854</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.06605828061806489544626608694255116776</Valutakurs_instrument>
+        <Marknadsvärde_instrument>19761927.45</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.22</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SGL TRANSGR 7.75% 08.04.2025 E</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015810759</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.6403</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.3702167375298141580376078496357117487</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5322009.64</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.33</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ML 33 HLDG 5.500% 27.12.2022</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010768492</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>14000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.0603</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.06605828061806489544626608694255116776</Valutakurs_instrument>
+        <Marknadsvärde_instrument>14933811.7</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.92</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TCM WAR LEONIKC2 150424</Instrumentnamn>
+        <ISIN-kod_instrument>CH1159246680</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>75000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3.51</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2632500</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.16</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CIDRON ROMANOV PIK 221026 NOK</Instrumentnamn>
+        <ISIN-kod_instrument>NO0011134405</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>50000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>110.2539</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.06605828061806489544626608694255116776</Valutakurs_instrument>
+        <Marknadsvärde_instrument>58768535.61</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.64</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CIDRON ROMANOV PIK 221026 SEK</Instrumentnamn>
+        <ISIN-kod_instrument>NO0011134413</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>32000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>109.7728</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>35127288.89</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.17</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TCM WAR LEONEHY3 240318</Instrumentnamn>
+        <ISIN-kod_instrument>CH0588517596</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>250000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3.44</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8600000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.53</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FJORD 1 FRN 22.11.2022</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010810302</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>9000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.2538</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.06605828061806489544626608694255116776</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9714815.88</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.60</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FIRST CAMP FRN 05.06.2023 SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013409570</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>12500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.4583</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>12557291.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.78</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HOIST FINANCE VAR 19.05.2027</Instrumentnamn>
+        <ISIN-kod_instrument>XS1617700197</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>800000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.8548</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.3702167375298141580376078496357117487</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8450050.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NORDAX BANK FRN PERPETUAL AT1</Instrumentnamn>
+        <ISIN-kod_instrument>NO0011134462</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>12500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.9917</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>12498959.38</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.77</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TCM WAR LEONGEC2 230324</Instrumentnamn>
+        <ISIN-kod_instrument>CH0588510039</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>75000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>.255</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>191250</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.01</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>IIIJA BATLJAN FRN PERPETUAL</Instrumentnamn>
+        <ISIN-kod_instrument>SE0016101638</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>3750000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>97.3012</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3648793.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.23</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ESMAEILZADEH FRN 26.01.2025</Instrumentnamn>
+        <ISIN-kod_instrument>SE0017133564</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>7500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.3333</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7600000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.47</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ICE SCANDINAVIA FRN 10.10.2023</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010864002</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>10000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>105.75</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.06605828061806489544626608694255116776</Valutakurs_instrument>
+        <Marknadsvärde_instrument>11273566.32</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.70</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LEONTEQ SEC ZCPN 28.04.23</Instrumentnamn>
+        <ISIN-kod_instrument>CH0588510559</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1000000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.06</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MEDIA AND GAMES FRN 27.11.2024</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015194527</ISIN-kod_instrument>
+        <Landkod_Emittent>MT</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>1500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.7451</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.3702167375298141580376078496357117487</Valutakurs_instrument>
+        <Marknadsvärde_instrument>15671233.85</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.97</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>B2 HOLDING AS FRN EUR 23.05.23</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010822646</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>1000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.413</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.3702167375298141580376078496357117487</Valutakurs_instrument>
+        <Marknadsvärde_instrument>10413045.73</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.64</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SGL TRANSGROUP FRN 04.11.2024</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013101219</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>1300000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.0312</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.3702167375298141580376078496357117487</Valutakurs_instrument>
+        <Marknadsvärde_instrument>13755120.29</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.85</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>M2 ASSET MGM FRN 19.12.2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013545779</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>30000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.092</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>30027591.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.86</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HEIMSTADEN AB FRN 31.05.2023</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012622249</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>40000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.7863</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>39914501.11</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.47</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>B2 HOLDING FRN 28.05.2024</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010852742</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>2000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.1298</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.3702167375298141580376078496357117487</Valutakurs_instrument>
+        <Marknadsvärde_instrument>21182164.37</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.31</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TCM WAR LEONNFI2 230324</Instrumentnamn>
+        <ISIN-kod_instrument>CH0588510013</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>50000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.27</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>635000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.04</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KISTEFOS FRN 10.05.2023 NOK</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010850654</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>15000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.5871</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.06605828061806489544626608694255116776</Valutakurs_instrument>
+        <Marknadsvärde_instrument>16244662.71</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.01</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NORSK HYDRO ASA 1% 07.11.2022</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010809676</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>30000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.3085</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>30092556.16</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.86</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>10</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SLATTO FASTPARTNER 01.04.2023</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012011872</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>5000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.5188</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5025937.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.31</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MOMOX HLDNG FRN 10.07.2025</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010886369</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>200000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.3889</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.3702167375298141580376078496357117487</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2082109.09</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.13</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TCM WAR LEONGFI2 230324</Instrumentnamn>
+        <ISIN-kod_instrument>CH0588510054</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>275000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3.92</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>10780000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.67</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>STILLFRONT GROUP FRN 19.05.25</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015961065</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>10000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.1186</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9911863.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TCM WAR LEONLQD2 230324</Instrumentnamn>
+        <ISIN-kod_instrument>CH0588510047</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>200000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>7.44</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>14880000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.92</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VNV GL 5.5% 24.06.2024 SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0016275077</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>6250000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.0917</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6255729.16</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.39</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MERCELL HOLDING FRN 08.12.2025</Instrumentnamn>
+        <ISIN-kod_instrument>NO0010907876</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>7000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>95.0083</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6650583.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>COMPACTOR FASTIG FRN 15.09.24</Instrumentnamn>
+        <ISIN-kod_instrument>SE0016802912</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>16250000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>96.8467</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>15737590.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.97</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MIDSTAR HOT FRN 08.02.2025 SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0017133846</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>16250000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.1021</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>16266588.54</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.01</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TCM WAR LEONEHY3 230324</Instrumentnamn>
+        <ISIN-kod_instrument>CH0588510005</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>500000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>.32</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1600000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.10</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>24STORAGE FRN 05.10.2023 SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0014957551</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>20000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>105.2708</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>21054166.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.30</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SWEDBANK VAR 08.05.2028</Instrumentnamn>
+        <ISIN-kod_instrument>XS1816641937</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>30000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.5433</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>30163002.08</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.87</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CALLIGO FRN 29.12.2024 EUR</Instrumentnamn>
+        <ISIN-kod_instrument>NO0011179806</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>2200000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.2972</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.3702167375298141580376078496357117487</Valutakurs_instrument>
+        <Marknadsvärde_instrument>22654141.76</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.40</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TCM WAR LEONNCB2 06.03.2023</Instrumentnamn>
+        <ISIN-kod_instrument>CH0588509825</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.85</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1850000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.11</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LAKERS FRN 09.06.2025 NOK</Instrumentnamn>
+        <ISIN-kod_instrument>NO0011017113</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>10000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.9779</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.06605828061806489544626608694255116776</Valutakurs_instrument>
+        <Marknadsvärde_instrument>10871443.21</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.67</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SWEDISH T-BILL ZCPN 18.05.2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0017485543</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>215000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.031</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>215066650</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>13.31</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SWEDISH T-BILL ZCPN 20.04.2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0017232689</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>30000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.01</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>30003000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.86</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SWEDISH T-BILL ZCPN 15.06.2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0016102057</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>160000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.049</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>160078400</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>9.91</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NORWEGIAN T-BILL 15.06.2022</Instrumentnamn>
+        <ISIN-kod_instrument>NO0011025769</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal />
+        <Nominellt_belopp>180000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.855</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.06605828061806489544626608694255116776</Valutakurs_instrument>
+        <Marknadsvärde_instrument>191612249.3</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>11.86</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VOLKSWAGEN FIN ZCPN 30.05.2022</Instrumentnamn>
+        <ISIN-kod_instrument>XS2464732424</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>30000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.945</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>29983509.34</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.86</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>WILLHEM CP 19.04.2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0017131360</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>40000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.9995</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>39999788.86</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.48</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DIOS FAST CP 07.04.2022 SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0017231848</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>10000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.9897</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9998970.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VASAKRONAN AB CP 02.05.2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0017485840</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>50000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.9999</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>49999955.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.09</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KLARNA BANK CP 29.08.2022 SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0017181548</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>40000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.7702</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>39908063.49</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.47</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>RIKSHEM AB CP 07.06.2022</Instrumentnamn>
+        <ISIN-kod_instrument>SE0017486137</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>20000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.9981</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>19999622.26</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.24</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ATLANT OPPORTUNITY D</Instrumentnamn>
+        <ISIN-kod_instrument>SE0014035960</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>1000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>117.17</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.3702167375298141580376078496357117487</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1213833.87</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.08</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OMX 06/17/22 P2000</Instrumentnamn>
+        <ISIN-kod_instrument>SE0015278270</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>750</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>59</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4425000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.27</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Forward Foreign Exchange, NOK to SEK, Settle: 26/08/2022</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal>-320114975</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.061057446</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.066</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7861240.92</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.49</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Forward Foreign Exchange, EUR to SEK, Settle: 26/08/2022</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-9040762</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.395391852</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.37</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-154523.37</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

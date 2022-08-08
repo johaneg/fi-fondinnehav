@@ -1,0 +1,925 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2021-12-31</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>Swedbank Robur Fonder AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58075</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>549300NXP7NMRCRG3P34</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>51187</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0000537763</Fond_ISIN-kod>
+    <Fond_namn>Swedbank Robur Fastighet</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Fastighet A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.25</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Fastighet C</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.25</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>9964317980</Fondförmögenhet>
+    <Likvida_medel>330725590</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>17455087</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>3.40</Aktiv_risk>
+    <Standardavvikelse_24_månader>20.79</Standardavvikelse_24_månader>
+    <Jämförelseindex>MSCI World Real Estate Net 75.00; SIX Fastigheter Return 25.00; </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GPT</Instrumentnamn>
+        <ISIN-kod_instrument>AU000000GPT8</ISIN-kod_instrument>
+        <Landkod_Emittent>AU</Landkod_Emittent>
+        <Valuta>AUD</Valuta>
+        <Antal>3500000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>5.42</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.58260164</Valutakurs_instrument>
+        <Marknadsvärde_instrument>124871953.11</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.25</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Corem Property Group</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010714287</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>9750000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>32.65</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>318337500</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.19</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Wihlborgs Fastigheter</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011205194</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>900000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>205.4</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>184860000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.86</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Ichigo Group</Instrumentnamn>
+        <ISIN-kod_instrument>JP3120010008</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>3800000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>280</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.07862316</Valutakurs_instrument>
+        <Marknadsvärde_instrument>83655042.24</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.84</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Katitas</Instrumentnamn>
+        <ISIN-kod_instrument>JP3932950003</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>450000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>4425</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.07862316</Valutakurs_instrument>
+        <Marknadsvärde_instrument>156558367.35</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.57</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Cheung Kong Property</Instrumentnamn>
+        <ISIN-kod_instrument>KYG2177B1014</ISIN-kod_instrument>
+        <Landkod_Emittent>KY</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>500000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>49.15</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.16130087</Valutakurs_instrument>
+        <Marknadsvärde_instrument>28538968.88</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.29</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Boston Properties</Instrumentnamn>
+        <ISIN-kod_instrument>US1011211018</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>161000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>115.18</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>167894413.32</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.68</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Capitaland Investment</Instrumentnamn>
+        <ISIN-kod_instrument>SGXE62145532</ISIN-kod_instrument>
+        <Landkod_Emittent>SG</Landkod_Emittent>
+        <Valuta>SGD</Valuta>
+        <Antal>3600000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3.41</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.71575863</Valutakurs_instrument>
+        <Marknadsvärde_instrument>82442652.94</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.83</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Echo Investment</Instrumentnamn>
+        <ISIN-kod_instrument>PLECHPS00019</ISIN-kod_instrument>
+        <Landkod_Emittent>PL</Landkod_Emittent>
+        <Valuta>PLN</Valuta>
+        <Antal>2000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>4.065</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>2.24638994</Valutakurs_instrument>
+        <Marknadsvärde_instrument>18263150.21</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.18</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>National Health Investors</Instrumentnamn>
+        <ISIN-kod_instrument>US63633D1046</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>110000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>57.47</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>57235723.55</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.57</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>K-fast</Instrumentnamn>
+        <ISIN-kod_instrument>SE0016101679</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>850000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>87</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>73950000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.74</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Life Storage REIT</Instrumentnamn>
+        <ISIN-kod_instrument>US53223X1072</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>166000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>153.18</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>230220211.34</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.31</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BGP</Instrumentnamn>
+        <ISIN-kod_instrument>AU00573958S3</ISIN-kod_instrument>
+        <Landkod_Emittent>MT</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>2381342</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.296</Valutakurs_instrument>
+        <Marknadsvärde_instrument>0</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Equinix</Instrumentnamn>
+        <ISIN-kod_instrument>US29444U7000</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>68000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>845.84</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>520751376.91</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.23</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Brookfield Renewable Partners</Instrumentnamn>
+        <ISIN-kod_instrument>BMG162581083</ISIN-kod_instrument>
+        <Landkod_Emittent>BM</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>260000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>45.31</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>7.16767605</Valutakurs_instrument>
+        <Marknadsvärde_instrument>84439524.47</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.85</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>55</Branschkod_instrument>
+          <Bransch_namn_instrument>Utilities</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CyrusOne REIT</Instrumentnamn>
+        <ISIN-kod_instrument>US23283R1005</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>160000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>89.72</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>129969827.52</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.3</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EPR Properties</Instrumentnamn>
+        <ISIN-kod_instrument>US26884U1097</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>112000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>47.49</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>48156341.69</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.48</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Equity LifeStyle Properties</Instrumentnamn>
+        <ISIN-kod_instrument>US29472R1086</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>380000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>87.66</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>301590986.58</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.03</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Far East Consortium International</Instrumentnamn>
+        <ISIN-kod_instrument>KYG3307Z1090</ISIN-kod_instrument>
+        <Landkod_Emittent>KY</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>9133054</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2.84</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.16130087</Valutakurs_instrument>
+        <Marknadsvärde_instrument>30121674.9</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.3</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CBRE Group</Instrumentnamn>
+        <ISIN-kod_instrument>US12504L1098</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>300000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>108.51</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>294729979.05</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.96</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Corestate Capital</Instrumentnamn>
+        <ISIN-kod_instrument>LU1296758029</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>75000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>11.28</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.296</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8710416</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.09</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Tricon Residential</Instrumentnamn>
+        <ISIN-kod_instrument>CA89612W1023</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>1200000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>19.36</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>7.16767605</Valutakurs_instrument>
+        <Marknadsvärde_instrument>166519449.99</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.67</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Americold Realty Trust</Instrumentnamn>
+        <ISIN-kod_instrument>US03064D1081</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>350000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>32.79</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>103906509.53</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.04</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Mirvac</Instrumentnamn>
+        <ISIN-kod_instrument>AU000000MGR9</ISIN-kod_instrument>
+        <Landkod_Emittent>AU</Landkod_Emittent>
+        <Valuta>AUD</Valuta>
+        <Antal>8200000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2.91</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.58260164</Valutakurs_instrument>
+        <Marknadsvärde_instrument>157074040.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.58</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Grand City Properties</Instrumentnamn>
+        <ISIN-kod_instrument>LU0775917882</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>500000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>20.88</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.296</Valutakurs_instrument>
+        <Marknadsvärde_instrument>107490240</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.08</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>WP Carey</Instrumentnamn>
+        <ISIN-kod_instrument>US92936U1097</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>230000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>82.05</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>170859730.28</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.71</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Link</Instrumentnamn>
+        <ISIN-kod_instrument>HK0823032773</ISIN-kod_instrument>
+        <Landkod_Emittent>HK</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>1600000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>68.65</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.16130087</Valutakurs_instrument>
+        <Marknadsvärde_instrument>127557287.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.28</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Altus</Instrumentnamn>
+        <ISIN-kod_instrument>CA02215R1073</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>175000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>70.97</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>7.16767605</Valutakurs_instrument>
+        <Marknadsvärde_instrument>89020744.62</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.89</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FastPartner</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013512506</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>2234964</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>121.4</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>271324629.6</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.72</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GA Technologies</Instrumentnamn>
+        <ISIN-kod_instrument>JP3386670008</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>150000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1303</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.07862316</Valutakurs_instrument>
+        <Marknadsvärde_instrument>15366896.62</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.15</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Communication Services</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Nippon Prologis REIT</Instrumentnamn>
+        <ISIN-kod_instrument>JP3047550003</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>5500</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>407000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.07862316</Valutakurs_instrument>
+        <Marknadsvärde_instrument>175997943.66</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.77</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FirstService</Instrumentnamn>
+        <ISIN-kod_instrument>CA33767E2024</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>40000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>248.6</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>7.16767605</Valutakurs_instrument>
+        <Marknadsvärde_instrument>71275370.64</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.72</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>New World Development</Instrumentnamn>
+        <ISIN-kod_instrument>HK0000608585</ISIN-kod_instrument>
+        <Landkod_Emittent>HK</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>1800000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>30.85</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.16130087</Valutakurs_instrument>
+        <Marknadsvärde_instrument>64487037.31</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.65</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Kenedix Office Investment</Instrumentnamn>
+        <ISIN-kod_instrument>JP3046270009</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>1000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>711000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.07862316</Valutakurs_instrument>
+        <Marknadsvärde_instrument>55901066.76</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.56</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Taisei</Instrumentnamn>
+        <ISIN-kod_instrument>JP3443600006</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>142000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3495</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.07862316</Valutakurs_instrument>
+        <Marknadsvärde_instrument>39019888.08</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.39</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrials</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ESR Cayman</Instrumentnamn>
+        <ISIN-kod_instrument>KYG319891092</ISIN-kod_instrument>
+        <Landkod_Emittent>KY</Landkod_Emittent>
+        <Valuta>HKD</Valuta>
+        <Antal>3000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>26.35</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.16130087</Valutakurs_instrument>
+        <Marknadsvärde_instrument>91800833.77</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.92</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Corem Property Group</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010714279</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1593149</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>32.6</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>51936657.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Crown Castle</Instrumentnamn>
+        <ISIN-kod_instrument>US22822V1017</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>172000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>208.74</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>325062911.63</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.26</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Vonovia</Instrumentnamn>
+        <ISIN-kod_instrument>DE000A1ML7J1</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>742500</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>48.5</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.296</Valutakurs_instrument>
+        <Marknadsvärde_instrument>370771830</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.72</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sagax</Instrumentnamn>
+        <ISIN-kod_instrument>SE0005127818</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1500000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>305</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>457500000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.59</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ProLogis</Instrumentnamn>
+        <ISIN-kod_instrument>US74340W1036</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>550000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>168.36</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>838368402.3</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>8.41</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Aroundtown</Instrumentnamn>
+        <ISIN-kod_instrument>LU1673108939</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>1000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>5.32</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.296</Valutakurs_instrument>
+        <Marknadsvärde_instrument>54774720</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.55</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Fastighets Balder</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000455057</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>651.8</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>651800000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.54</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Mid-American Apartment Comm</Instrumentnamn>
+        <ISIN-kod_instrument>US59522J1034</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>180000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>229.44</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>373916761.92</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.75</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>National Storage Affiliates Trust</Instrumentnamn>
+        <ISIN-kod_instrument>US6378701063</ISIN-kod_instrument>
+        <Landkod_Emittent>AU</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>350000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>69.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>219284247</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Mapletree Logistics Trust</Instrumentnamn>
+        <ISIN-kod_instrument>SG1S03926213</ISIN-kod_instrument>
+        <Landkod_Emittent>SG</Landkod_Emittent>
+        <Valuta>SGD</Valuta>
+        <Antal>7000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.9</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.71575863</Valutakurs_instrument>
+        <Marknadsvärde_instrument>89319589.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.9</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Howard Hughes</Instrumentnamn>
+        <ISIN-kod_instrument>US44267D1072</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>40000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.78</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>36860034.12</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.37</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SL Green Realty</Instrumentnamn>
+        <ISIN-kod_instrument>US78440X8048</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>84899</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>71.7</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>55113123.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.55</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Nyfosa</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011426428</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1800000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>156</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>280800000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.82</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>American Tower</Instrumentnamn>
+        <ISIN-kod_instrument>US03027X1000</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>290000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>292.5</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>767992826.25</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>7.71</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sagax</Instrumentnamn>
+        <ISIN-kod_instrument>SE0004635878</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>500000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>303</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>151500000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument>Real Estate</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Vanguard REIT ETF</Instrumentnamn>
+        <ISIN-kod_instrument>US9229085538</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>226819</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>116.01</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.05385</Valutakurs_instrument>
+        <Marknadsvärde_instrument>238236419.42</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.39</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>ÖV</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

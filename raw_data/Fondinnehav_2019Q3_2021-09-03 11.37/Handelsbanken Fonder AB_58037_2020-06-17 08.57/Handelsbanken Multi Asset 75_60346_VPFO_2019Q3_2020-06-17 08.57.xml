@@ -1,0 +1,707 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2019-09-30</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>Handelsbanken Fonder AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58037</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>549300RJTULO02U5ZG71</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>60346</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0002979245</Fond_ISIN-kod>
+    <Fond_namn>Handelsbanken Multi Asset 75</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Multi Asset 75 A1 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.45</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Multi Asset 75 B9 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.75</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Multi Asset 75 A9 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.75</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>6932029747</Fondförmögenhet>
+    <Likvida_medel>154279797</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>728481</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>1.21</Aktiv_risk>
+    <Standardavvikelse_24_månader>10.2900000000</Standardavvikelse_24_månader>
+    <Jämförelseindex>OMRXTBILL 22.50; HMNI Swe All Mortgage Dur Const 2.5Y (HMSMD25) 0.75; Solactive ISS ESG Global Markets 37.50; SIX SRI Nordic 200 Net Index 37.50; HMNI Swe All Government Dur Const 6Y (HMSD6) 1.75; </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BlueOrch SDG IM</Instrumentnamn>
+        <ISIN-kod_instrument>LU1917348580</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>14711.2120000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1015.2700000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>14935852.21</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2200000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>XACTHDIV</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009778954</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>2690678.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>124.5557000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>335139281.76</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.8300000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>XACT Norden</Instrumentnamn>
+        <ISIN-kod_instrument>SE0001710914</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>2592020.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>126.4733185940</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>327821371.26</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.7300000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>UIAEMLocCurBdS</Instrumentnamn>
+        <ISIN-kod_instrument>LU1783956961</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>2712825.0910000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>111.5900000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>302724151.90</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.3700000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>UI Aktia EM Fro</Instrumentnamn>
+        <ISIN-kod_instrument>LU1950510971</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>165953.6130000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.0400000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>17099860.28</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2500000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>UBS Sm Cap EU</Instrumentnamn>
+        <ISIN-kod_instrument>LU0198839143</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>0.0020000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>376.9500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.71900993000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8.08</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0000000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>UBS Eq Sic USA</Instrumentnamn>
+        <ISIN-kod_instrument>LU0198837287</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>260581.5980000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>40.5300000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.83215000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>103840995.35</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.5000000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>UBCARA3 ID</Instrumentnamn>
+        <ISIN-kod_instrument>IE00BJ7H7Y93</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>106466.3080000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>678.7731000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>72266465.93</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.0400000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JPMESCI LX</Instrumentnamn>
+        <ISIN-kod_instrument>LU0248047986</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>39137.2800000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>235.6900000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.71900993000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>98874993.74</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.4300000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JPMCIHS LX</Instrumentnamn>
+        <ISIN-kod_instrument>LU1278810228</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>357652.9880000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>876.4900000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>313479267.45</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.5200000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JPMAIAS LX</Instrumentnamn>
+        <ISIN-kod_instrument>LU1984714615</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>268462.3660000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1003.1700000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>269313391.70</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.8900000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF USAInCrA1S</Instrumentnamn>
+        <ISIN-kod_instrument>SE0004139780</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>942226.6724320000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>425.9875000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>401376784.62</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.7900000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF TillvA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000429748</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>327161.4750000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>349.2053457720</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>114246536.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.6500000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF SvOMXSA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0003788587</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>282041.5015800000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>254.8477973440</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>71877655.44</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.0400000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF RaAvA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0005991429</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>6938.5902000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1940.3274000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>13463136.68</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.1900000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF NoSelA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0005991700</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>615526.9371000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>422.5361582710</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>260082387.31</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.7500000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF NorSmaA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000522724</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>388989.5450000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1162.6498000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>452258616.70</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.5200000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF NordenA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000356230</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1066671.1324000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1219.4825000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1300786779.22</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>18.7600000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF LaRaA1S</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000356297</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>350178.7548000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>120.3816000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>42155078.79</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.6100000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF Japan</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000356099</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1843540.4918000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>93.0053000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>171459036.50</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.4700000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF IKA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0008613863</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1645180.9833000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.3323910000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>165064941.68</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.3800000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF HoyrenA1NOK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009696842</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal>102113.0307000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>115.0388417400</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.08212680000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>12711705.41</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.1800000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF HGlObA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011751155</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>156863.1088000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.8782000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>16137794.28</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2300000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF HalsTeA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000735375</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>313912.7594000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>241.5425000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>75823272.69</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.0900000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF HaEnA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0005965662</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>416388.5549000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>184.8572040000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>76972424.04</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.1100000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF FOIGA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007820584</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1217229.9411000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.5627856400</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>123625263.58</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.7800000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF EuropaA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000396574</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>486719.3839000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>434.1067000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>211288145.57</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.0500000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF EurInCRA1S</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000624421</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>838366.1138000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>130.6334500000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>109518657.81</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.5800000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF AsienA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000356073</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>115316.0228000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>702.5966636150</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>81020652.88</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.1700000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF AmeSmA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011336908</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>407426.4358000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>906.3816187200</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>369283832.39</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.3300000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF AmerA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000355828</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>360447.3684000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1074.1719487930</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>387182452.15</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.5900000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FFSWIAS LX</Instrumentnamn>
+        <ISIN-kod_instrument>LU2016206786</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>14365784.9500000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.9300000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>157018029.50</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.2700000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FFESIAS LX</Instrumentnamn>
+        <ISIN-kod_instrument>LU1627197772</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>6000330.9100000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>13.1000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>78604334.92</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.1300000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF RStPA7SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007157888</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>2012016.1829000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.0731000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>203360712.86</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.9300000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBF RaStA1SEK</Instrumentnamn>
+        <ISIN-kod_instrument>SE0001163171</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>285350.7555000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.3509000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>29205906.64</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.4200000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VGZ9</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C1JUF90</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-3710.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3555.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.71900993000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-1948608.82</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.0300000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SXOZ9</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C31Y3A6</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-66600.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>391.3000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.71900993000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-2712767.03</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.0400000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>RXZ9</Instrumentnamn>
+        <ISIN-kod_instrument>DE000C317NS1</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>-8400000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>174.2500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.71900993000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1935853.19</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0300000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OMXESG9J</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012871598</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>25400.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1626.2900000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>59182.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0000000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OIV9</Instrumentnamn>
+        <ISIN-kod_instrument>NOOB0099AZ60</ISIN-kod_instrument>
+        <Landkod_Emittent>NO</Landkod_Emittent>
+        <Valuta>NOK</Valuta>
+        <Antal>29900.0000000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>814.7100000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.08212680000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-331968.37</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0000000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

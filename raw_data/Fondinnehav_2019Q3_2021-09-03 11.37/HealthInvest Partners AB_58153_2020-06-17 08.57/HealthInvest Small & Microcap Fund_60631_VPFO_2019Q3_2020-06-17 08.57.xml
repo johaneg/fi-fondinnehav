@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2019-09-30</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>HealthInvest Partners AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58153</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>254900B8I6MGR4OKN270</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>60631</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0004950616</Fond_ISIN-kod>
+    <Fond_namn>HealthInvest Small &amp; Microcap Fund</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>HealthInvest Small &amp; MicroCap A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.5</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>MSCI World Healthcare Sammanvägt index SEK</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>HealthInvest Small &amp; MicroCap B</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.8</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>MSCI World Healthcare Sammanvägt index SEK</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>HealthInvest Small &amp; MicroCap C</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>OMRX T-Bill Index + 4% årligen</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>HealthInvest Small &amp; MicroCap D</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.4</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>OMRX T-Bill Index + 4% årligen</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>1553804054</Fondförmögenhet>
+    <Likvida_medel>252262538</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-3067912</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>10.2</Aktiv_risk>
+    <Standardavvikelse_24_månader>13.95</Standardavvikelse_24_månader>
+    <Jämförelseindex>
+      <Jämförelseindex>MSCI World Healthcare SEK</Jämförelseindex>
+    </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Allergan</Instrumentnamn>
+        <ISIN-kod_instrument>IE00BY9D5467</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>80000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>168.29</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.837</Valutakurs_instrument>
+        <Marknadsvärde_instrument>132437498.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>8.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Ani Pharmaceuticals Inc</Instrumentnamn>
+        <ISIN-kod_instrument>US00182C1036</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>93100</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>72.88</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.837</Valutakurs_instrument>
+        <Marknadsvärde_instrument>66745304.14</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.3</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Biogen Idec Inc</Instrumentnamn>
+        <ISIN-kod_instrument>US09062X1037</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>41000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>232.82</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.837</Valutakurs_instrument>
+        <Marknadsvärde_instrument>93900263.94</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.04</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Cardinal Health Inc</Instrumentnamn>
+        <ISIN-kod_instrument>US14149Y1082</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>201000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>47.19</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.837</Valutakurs_instrument>
+        <Marknadsvärde_instrument>93305814.03</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Care Twentyone Corp</Instrumentnamn>
+        <ISIN-kod_instrument>JP3277500009</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>177400</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1711</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.091072</Valutakurs_instrument>
+        <Marknadsvärde_instrument>27643211.66</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.78</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Caregen Co Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>KR7214370009</ISIN-kod_instrument>
+        <Landkod_Emittent>KR</Landkod_Emittent>
+        <Valuta>KRW</Valuta>
+        <Antal>90295</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>76500</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.0082</Valutakurs_instrument>
+        <Marknadsvärde_instrument>56642053.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.65</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Cigna Corp</Instrumentnamn>
+        <ISIN-kod_instrument>US1255231003</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>60000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>151.79</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.837</Valutakurs_instrument>
+        <Marknadsvärde_instrument>89589493.8</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.77</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Corline Biomedical AB</Instrumentnamn>
+        <ISIN-kod_instrument>SE0006887451</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1448274</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>16</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>23172384</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.49</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Dedicare AB B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0003909282</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>618855</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>46</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>28467330</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.83</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DVX INC</Instrumentnamn>
+        <ISIN-kod_instrument>JP3548710007</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>552400</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>862</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.091072</Valutakurs_instrument>
+        <Marknadsvärde_instrument>43365644.95</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.79</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Excelsior Biopharma Inc</Instrumentnamn>
+        <ISIN-kod_instrument>TW0006496003</ISIN-kod_instrument>
+        <Landkod_Emittent>TW</Landkod_Emittent>
+        <Valuta>TWD</Valuta>
+        <Antal>1720000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>38.1</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.3169</Valutakurs_instrument>
+        <Marknadsvärde_instrument>20767090.8</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.34</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Garmin LTD</Instrumentnamn>
+        <ISIN-kod_instrument>CH0114405324</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>82000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>84.69</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.837</Valutakurs_instrument>
+        <Marknadsvärde_instrument>68313833.46</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.4</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>H Lundbeck A/S</Instrumentnamn>
+        <ISIN-kod_instrument>DK0010287234</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>DKK</Valuta>
+        <Antal>208000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>227.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.4367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>67894993.92</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.37</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Haw Par Corporation Limited</Instrumentnamn>
+        <ISIN-kod_instrument>SG1D25001158</ISIN-kod_instrument>
+        <Landkod_Emittent>SG</Landkod_Emittent>
+        <Valuta>SGD</Valuta>
+        <Antal>720100</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>13.38</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>7.1244</Valutakurs_instrument>
+        <Marknadsvärde_instrument>68643152.29</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.42</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Hugel Inc</Instrumentnamn>
+        <ISIN-kod_instrument>KR7145020004</ISIN-kod_instrument>
+        <Landkod_Emittent>KR</Landkod_Emittent>
+        <Valuta>KRW</Valuta>
+        <Antal>10384</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>385500</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.0082</Valutakurs_instrument>
+        <Marknadsvärde_instrument>32824862.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.11</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Intervacc AB</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009607252</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1527510</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>16.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>24745662</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.59</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Kotra Industries BHD</Instrumentnamn>
+        <ISIN-kod_instrument>MYQ0002OO004</ISIN-kod_instrument>
+        <Landkod_Emittent>MY</Landkod_Emittent>
+        <Valuta>MYR</Valuta>
+        <Antal>742800</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1.84</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>2.35</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3211867.2</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.21</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>McKesson Corp</Instrumentnamn>
+        <ISIN-kod_instrument>US58155Q1031</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>49500</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>136.66</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.837</Valutakurs_instrument>
+        <Marknadsvärde_instrument>66544058.79</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.28</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Neopharm Co Ltd</Instrumentnamn>
+        <ISIN-kod_instrument>KR7092730001</ISIN-kod_instrument>
+        <Landkod_Emittent>KR</Landkod_Emittent>
+        <Valuta>KRW</Valuta>
+        <Antal>159281</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>52100</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.0082</Valutakurs_instrument>
+        <Marknadsvärde_instrument>68048028.82</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.38</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NGS Group</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009947708</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>174998</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>22</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3849956</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.25</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Orexo AB</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000736415</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1300000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>53.6</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>69680000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.48</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Petmed Express Inc</Instrumentnamn>
+        <ISIN-kod_instrument>US7163821066</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>405000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>18.02</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.837</Valutakurs_instrument>
+        <Marknadsvärde_instrument>71791409.7</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Saint-Care Holdings Corp</Instrumentnamn>
+        <ISIN-kod_instrument>JP3424980005</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>747400</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>504</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.091072</Valutakurs_instrument>
+        <Marknadsvärde_instrument>34305875.25</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.21</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Spago Nanomedical AB</Instrumentnamn>
+        <ISIN-kod_instrument>SE0004899474</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>1640000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>12.2</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>20008000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.29</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Stille AB</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000998650</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>466895</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>74.6</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>34830367</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.24</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Surgical Innovations Group</Instrumentnamn>
+        <ISIN-kod_instrument>GB0004016704</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>39578576</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.019</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>12.0969</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9096783.44</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.59</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Valutatermin DKK/SEK 191016</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>DKK</Valuta>
+        <Antal />
+        <Nominellt_belopp>-20000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.97070003</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.4367</Valutakurs_instrument>
+        <Marknadsvärde_instrument>94679.05</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Valutatermin EUR/SEK 191016</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal />
+        <Nominellt_belopp>-3000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.00313642</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.7234</Valutakurs_instrument>
+        <Marknadsvärde_instrument>92456.01</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.01</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Valutatermin GBP/SEK 191016</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal />
+        <Nominellt_belopp>-3600000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.91395356</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>12.0969</Valutakurs_instrument>
+        <Marknadsvärde_instrument>542602.63</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.03</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Valutatermin JPY/SEK 191016</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal />
+        <Nominellt_belopp>-940000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.93953653</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.091072</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-3386807.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.22</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Valutatermin SGD/SEK 191016</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>SG</Landkod_Emittent>
+        <Valuta>SGD</Valuta>
+        <Antal />
+        <Nominellt_belopp>-6000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.82499831</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>7.1244</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-1052389.08</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.07</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Valutatermin USD/SEK 191016</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal />
+        <Nominellt_belopp>-33000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.89616016</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.837</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-11506053.07</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-0.74</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2021-06-30</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>ISEC Services AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>59003</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>549300G2P8MX7J4PPT95</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>60885</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0008348759</Fond_ISIN-kod>
+    <Fond_namn>Fronteer Harvest</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>FRONTEER HARVEST A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.59</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>FRONTEER HARVEST B</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.35</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>FRONTEER HARVEST C</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>2</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>Thomson Reuters Global Equity Index (NOK)</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>FRONTEER HARVEST D</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>Thomson Reuters Global Equity Index (NOK)</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>FRONTEER HARVEST E</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>2</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>FRONTEER HARVEST F</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.59</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>FRONTEER HARVEST G</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.35</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>FRONTEER HARVEST H</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>2</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>Thomson Reuters Global Equity Index (SEK)</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>FRONTEER HARVEST I</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>Thomson Reuters Global Equity Index (SEK)</Avkastningströskel>
+              <ProcentuelltUttag>20</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>FRONTEER HARVEST J</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>2</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>FRONTEER HARVEST K</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.99</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>FRONTEER HARVEST L</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.99</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>84648401</Fondförmögenhet>
+    <Likvida_medel>827227</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>2279676</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>13.53</Aktiv_risk>
+    <Standardavvikelse_24_månader>10.27</Standardavvikelse_24_månader>
+    <Jämförelseindex>
+      <Jämförelseindex>Thomson Reuter Global Index</Jämförelseindex>
+    </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ADOBE INC</Instrumentnamn>
+        <ISIN-kod_instrument>US00724F1012</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>731</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>585.64</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3663404.43</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.33</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AMAZON.COM INC</Instrumentnamn>
+        <ISIN-kod_instrument>US0231351067</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>269</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3440.16</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7918951.43</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>9.36</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ALPHABET INC-A</Instrumentnamn>
+        <ISIN-kod_instrument>US02079K3059</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>254</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2441.79</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5307362.91</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.27</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Telekomoperatörer</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ALIBABA GRP-ADR</Instrumentnamn>
+        <ISIN-kod_instrument>US01609W1027</ISIN-kod_instrument>
+        <Landkod_Emittent>CN</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1501</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>226.78</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2912877.37</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.44</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ARCH CAPITAL GRP</Instrumentnamn>
+        <ISIN-kod_instrument>BMG0450A1053</ISIN-kod_instrument>
+        <Landkod_Emittent>BM</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>3447</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>38.94</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1148613.69</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.36</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KIRKLAND LAKE GOL CN</Instrumentnamn>
+        <ISIN-kod_instrument>CA49741E1007</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>6740</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>47.77</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.9021</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2222267.76</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.63</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CAMECO CORP</Instrumentnamn>
+        <ISIN-kod_instrument>CA13321L1085</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>11852</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>23.76</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.9021</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1943655.66</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.3</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>10</Branschkod_instrument>
+          <Bransch_namn_instrument>Energi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AUTOZONE INC</Instrumentnamn>
+        <ISIN-kod_instrument>US0533321024</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>191</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1492.22</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2438950.47</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.88</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DOLLAR GENERAL CORP</Instrumentnamn>
+        <ISIN-kod_instrument>US2566771059</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>999</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>216.39</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1849862.43</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.19</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FRANCO-NEVADA CORP</Instrumentnamn>
+        <ISIN-kod_instrument>CA3518581051</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>2171</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>179.89</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.9021</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2695554.35</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.18</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FIDELITY NATIONAL IN</Instrumentnamn>
+        <ISIN-kod_instrument>US31620M1062</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1497</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>141.67</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1814832.1</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.14</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FACEBOOK INC-A</Instrumentnamn>
+        <ISIN-kod_instrument>US30303M1027</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1686</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>347.71</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5016623.51</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.93</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Telekomoperatörer</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GARMIN LTD</Instrumentnamn>
+        <ISIN-kod_instrument>CH0114405324</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1220</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>144.64</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1510028</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.78</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>COPART INC</Instrumentnamn>
+        <ISIN-kod_instrument>US2172041061</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>2073</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>131.83</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2338569.66</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.76</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JOHNSON&amp;JOHNSON</Instrumentnamn>
+        <ISIN-kod_instrument>US4781601046</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>798</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>164.74</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1124964.22</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.33</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HOME DEPOT INC</Instrumentnamn>
+        <ISIN-kod_instrument>US4370761029</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>900</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>318.89</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2455953.66</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.9</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MARKEL CORP</Instrumentnamn>
+        <ISIN-kod_instrument>US5705351048</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>199</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1186.71</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2020851.66</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.39</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MICROSOFT CORP</Instrumentnamn>
+        <ISIN-kod_instrument>US5949181045</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>2323</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>270.9</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5385114.88</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.36</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>O'REILLY AUTOMOT</Instrumentnamn>
+        <ISIN-kod_instrument>US67103H1077</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1140</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>566.21</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5523560.87</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.53</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>PAN AMER SILVER</Instrumentnamn>
+        <ISIN-kod_instrument>CA6979001089</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>5914</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>28.57</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1445866.91</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.71</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>PAYPAL HOLDINGS</Instrumentnamn>
+        <ISIN-kod_instrument>US70450Y1038</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>898</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>291.48</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2239865.06</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.65</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EVOLUTION GAMING GRO</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012673267</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>2271</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>1352.4</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3071300.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.63</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>REGIS RESOURCES LTD</Instrumentnamn>
+        <ISIN-kod_instrument>AU000000RRL8</ISIN-kod_instrument>
+        <Landkod_Emittent>AU</Landkod_Emittent>
+        <Valuta>AUD</Valuta>
+        <Antal>33413</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2.36</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.4165</Valutakurs_instrument>
+        <Marknadsvärde_instrument>505971.05</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.6</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>PERKINELMER INC</Instrumentnamn>
+        <ISIN-kod_instrument>US7140461093</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1131</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>154.41</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1494427.28</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.77</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SALESFORCE.COM INC</Instrumentnamn>
+        <ISIN-kod_instrument>US79466L3024</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1151</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>244.27</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2405925.71</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.84</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SSR MINING INC</Instrumentnamn>
+        <ISIN-kod_instrument>CA7847301032</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>7621</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>19.36</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.9021</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1018353.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.2</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument>Material</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>TAKE-TWO INTERACTIVE</Instrumentnamn>
+        <ISIN-kod_instrument>US8740541094</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>917</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>177.02</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1389083.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.64</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Telekomoperatörer</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>UNITED MICRO-ADR</Instrumentnamn>
+        <ISIN-kod_instrument>US9108734057</ISIN-kod_instrument>
+        <Landkod_Emittent>TW</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>16247</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>9.45</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1313837.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.55</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>URANIUM PARTICIPATIO</Instrumentnamn>
+        <ISIN-kod_instrument>CA9170171057</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>37018</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>5.47</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.9021</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1397595.6</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.65</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VEEVA SYSTEMS-A</Instrumentnamn>
+        <ISIN-kod_instrument>US9224751084</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>927</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>310.95</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>2466647.29</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.91</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>35</Branschkod_instrument>
+          <Bransch_namn_instrument>Hälsovård</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>VERIZON COMMUNICATIO</Instrumentnamn>
+        <ISIN-kod_instrument>US92343V1044</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>3625</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>56.03</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1738062.51</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.05</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Telekomoperatörer</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ZEBRA TECH CORP</Instrumentnamn>
+        <ISIN-kod_instrument>US9892071054</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>389</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>529.49</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.5573</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1762560.86</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.08</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>45</Branschkod_instrument>
+          <Bransch_namn_instrument>Informationsteknologi</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

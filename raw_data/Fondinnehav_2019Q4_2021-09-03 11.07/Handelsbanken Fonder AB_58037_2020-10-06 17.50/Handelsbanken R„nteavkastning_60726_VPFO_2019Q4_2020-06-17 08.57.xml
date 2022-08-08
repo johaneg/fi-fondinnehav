@@ -1,0 +1,956 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2019-12-31</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>Handelsbanken Fonder AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58037</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>549300RJTULO02U5ZG71</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>60726</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0005991429</Fond_ISIN-kod>
+    <Fond_namn>Handelsbanken Ränteavkastning</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Ränteavkastning B1 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.30</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Ränteavkastning A1 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.30</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Ränteavkastning A10 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.20</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Ränteavkastning B10 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.20</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Handelsbanken Ränteavkastning A9 SEK</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.25</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>13032850093</Fondförmögenhet>
+    <Likvida_medel>815514431</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-3342166</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>0.22</Aktiv_risk>
+    <Standardavvikelse_24_månader>1.2100000000</Standardavvikelse_24_månader>
+    <Jämförelseindex>HMNI Swe All Government Dur Const 5Y 50.00; HMNI Swe Government Dur Const 1Y 20.00; HMNI Swe All Mortgage Dur Const 2.5Y 30.00; </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Svenska Staten 1056 2.25% 2032-06-01</Instrumentnamn>
+        <ISIN-kod_instrument>SE0004517290</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>168200000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>124.4512500000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>209327002.50</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.6100000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EIB 0,125 2026-09-21</Instrumentnamn>
+        <ISIN-kod_instrument>XS2052474678</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>150000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>96.9033750000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>145355062.50</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.1200000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Svenska Staten 1058 2,50% 2025-05-12</Instrumentnamn>
+        <ISIN-kod_instrument>SE0005676608</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>15100000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>115.8863333110</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>17498836.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.1300000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Jönköpings Kommun 0.983% 2024-06-20</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010101246</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.4148055600</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>102414805.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.7900000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>IBRD 0,5% 2023-10-10</Instrumentnamn>
+        <ISIN-kod_instrument>XS1891149400</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>125000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.6271111120</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>125783888.89</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.9700000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EBRD 0,477% 2024-01-18</Instrumentnamn>
+        <ISIN-kod_instrument>XS1937041157</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>200000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.0721500000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>202144300.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.5500000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>International Bank for Reconstruction &amp; Developmen</Instrumentnamn>
+        <ISIN-kod_instrument>XS2078928665</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>98.9136666700</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>98913666.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.7600000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Kommuninvest i Sverige AB 1,00% 2025-05-12</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011414010</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>310000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.3261111100</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>320310944.44</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.4600000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Region Skåne 0,67% 2024-02-05</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011426063</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>250000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.4318611120</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>253579652.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.9500000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Svenska Staten 1057 1,50% 2023-11-13</Instrumentnamn>
+        <ISIN-kod_instrument>SE0004869071</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>106.9778300000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>106977.83</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0000000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Linkoping Stad 0.933% 2023-11-22</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011974575</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>192000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.5244833330</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>194927008.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.5000000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Stockholm Stad 1,85% 2024-11-12</Instrumentnamn>
+        <ISIN-kod_instrument>XS1136155162</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>106.3886666700</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>106388666.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.8200000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Svenska Staten 1053 3,50% 2039-03-30</Instrumentnamn>
+        <ISIN-kod_instrument>SE0002829192</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>422050000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>156.1340000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>658963547.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.0600000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KOMMUNINVEST 0,375% 2024-03-27</Instrumentnamn>
+        <ISIN-kod_instrument>XS1968465572</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>190000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.2473750000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>190470012.50</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.4600000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>IFC 1,13% 2029-11-12</Instrumentnamn>
+        <ISIN-kod_instrument>XS1955173981</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>184000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.1016666680</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>189707066.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.4600000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Svenska Staten 1061 0.75% 2029-11-12</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011281922</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>35000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>105.9370000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>37077950.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.2800000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>IFC 0.0225% 2026-09-03</Instrumentnamn>
+        <ISIN-kod_instrument>XS2049625028</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>150000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>96.3253125000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>144487968.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.1100000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GOTA 0,885% 2022-06-15</Instrumentnamn>
+        <ISIN-kod_instrument>XS1433082861</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.8793750000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>101879375.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.7800000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Svenska Staten 1054 3,50% 2022-06-01</Instrumentnamn>
+        <ISIN-kod_instrument>SE0003784461</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>111.2969400000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>111296.94</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0000000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KOMMUNINVEST K2109 1,00% 2021-09-15</Instrumentnamn>
+        <ISIN-kod_instrument>SE0006995064</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.8436666700</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>101843666.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.7800000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KOMMUNINVEST K2611 1,00%  2026-11-12</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012569572</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>294000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.3401111120</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>300879926.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.3100000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Kommun Invest 0,625% 2023-06-01</Instrumentnamn>
+        <ISIN-kod_instrument>XS1897258098</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>121000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.4578472230</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>122763995.14</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.9400000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Stockholm Stad 0,9% 2021-02-26</Instrumentnamn>
+        <ISIN-kod_instrument>XS1371440261</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.5380000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>101538000.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.7800000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Stockholms stad 0,675% 2022-02-15</Instrumentnamn>
+        <ISIN-kod_instrument>XS1565309728</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>143000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.4096250000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>145015763.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.1100000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Svenska Staten 1060 0,75% 2028-05-12</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009496367</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>106.4240000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>106424.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0000000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Svenska Staten 1059 1,00% 2026-11-12</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007125927</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>107.4343300000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>107434.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0000000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Nordea Hypotek 5534 1,00% 2024-09-18</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012230415</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>295000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.3683333320</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>301986583.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.3200000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Swedbank Hyp 190 1,00% 2021-09-15</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007525647</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>587000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.6116666660</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>596460483.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.5800000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LF Hypotek 515 2,25% 2022-09-21</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007278429</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>620000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>105.8500000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>656270000.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.0400000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SEB Bolån 574 1,50% 2021-12-15</Instrumentnamn>
+        <ISIN-kod_instrument>SE0008103477</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>671500000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.5125000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>688371437.50</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.2800000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Stadshypotek 1586 4,50% 2022-09-21</Instrumentnamn>
+        <ISIN-kod_instrument>SE0003174838</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>696000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>112.5395000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>783274920.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.0100000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LF Hypotek 519 1,50% 2026-09-16</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012324341</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>200000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>105.1493333350</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>210298666.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.6100000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Swedbank Hyp 192 1,00% 2023-03-15</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010133207</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>233000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.7916666650</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>239504583.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.8400000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Landshypotek Bank 0,75% 2023-05-25</Instrumentnamn>
+        <ISIN-kod_instrument>XS1824244807</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>91000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.4149166700</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>92287574.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.7100000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LF Hypotek 518 1.25% 2025-09-17</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011309244</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>344000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.6531111100</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>356566702.22</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.7400000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Stadshypotek 1594 2,00% 2028-09-01</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011062892</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>331000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>109.7466666680</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>363261466.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.7900000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SCBC 143 1,25% 2022-06-15</Instrumentnamn>
+        <ISIN-kod_instrument>SE0008586655</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>152000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.0290833360</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>156604206.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.2000000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LANHYP 0,70% 2022-05-09</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009895030</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>160000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.1601666690</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>161856266.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.2400000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Landshypotek Bank 0,615% 2025-11-18</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011870021</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>50000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>99.2337500000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>49616875.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.3800000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Stadshypotek 1587 1,50% 2023-06-01</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010441303</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>627000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>104.6418333330</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>656104295.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.0300000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SEB Bolån 576 1,00% 2023-12-20</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010049841</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>408000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.1745555560</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>416872186.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.2000000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Nordea Hypotek 5533 1,25% 2023-09-20</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010442731</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>436000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.4362222220</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>450981928.89</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.4600000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Stadshypotek 1584 1,50% 2021-03-17</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007577366</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>102000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.7601666670</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>104815370.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.8000000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Nordea Hypotek 5531 1,00% 2022-04-08</Instrumentnamn>
+        <ISIN-kod_instrument>SE0006991246</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>341000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.3847777770</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>349132092.22</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.6800000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Nordea Hypotek 5532 1,25% 2021-05-19</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007897186</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>206000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.2173611120</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>210567763.89</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.6200000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Östersunds Kommun FRN 2024-09-18</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012193845</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>69000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.9538333330</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>71728145.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.5500000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Orebro Kommun FRN 2023-11-20</Instrumentnamn>
+        <ISIN-kod_instrument>SE0011063056</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>50000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>102.5594527800</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>51279726.39</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.3900000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Sundsvalls Kommun FRN 2024-10-22</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013103751</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>100000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>104.1636388900</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>104163638.89</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.8000000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>City of Gothenburg 2.0% 2020-06-03</Instrumentnamn>
+        <ISIN-kod_instrument>XS1073488675</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>150000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.8990000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>152848500.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.1700000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>City of Malmo FRN 2025-03-14</Instrumentnamn>
+        <ISIN-kod_instrument>XS2072775500</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>65000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>104.3233333380</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>67810166.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.5200000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LANDSHYPOTEK FRN 2024-08-14</Instrumentnamn>
+        <ISIN-kod_instrument>SE0010245159</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>230000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.4553000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>237947190.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.8300000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LANHYP FRN 211025</Instrumentnamn>
+        <ISIN-kod_instrument>SE0009241755</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>73000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>101.2522305620</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>73914128.31</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.5700000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Swedbank Hyp FRN 2024-01-29</Instrumentnamn>
+        <ISIN-kod_instrument>XS1940844985</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>300000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>103.6191250000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>310857375.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.3900000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>REALKREDIT FRN 2020-10-01</Instrumentnamn>
+        <ISIN-kod_instrument>DK0004603545</ISIN-kod_instrument>
+        <Landkod_Emittent>DK</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>125000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.5742931520</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>125717866.44</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.9600000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LHAB RB 524  201016</Instrumentnamn>
+        <ISIN-kod_instrument>SE0007640347</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>70000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.5345888860</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>70374212.22</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.5400000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Landshypotek AB 0,625 % 2020-06-17</Instrumentnamn>
+        <ISIN-kod_instrument>SE0006965380</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>157000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.4980694460</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>157781969.03</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.2100000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Penningmarknadsinstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Landshyp FRN 528  2021-05-19</Instrumentnamn>
+        <ISIN-kod_instrument>SE0008008247</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>79000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>100.9092000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>79718268.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.6100000000</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BUOH0</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012936060</ISIN-kod_instrument>
+        <Landkod_Emittent />
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>-300000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>0.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0000000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>STH2YH0</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013357399</ISIN-kod_instrument>
+        <Landkod_Emittent />
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>-770000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>0.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0000000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BTOH0</Instrumentnamn>
+        <ISIN-kod_instrument>SE0012936052</ISIN-kod_instrument>
+        <Landkod_Emittent />
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>-926000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>0.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0000000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CEYH0</Instrumentnamn>
+        <ISIN-kod_instrument>SE0013357407</ISIN-kod_instrument>
+        <Landkod_Emittent />
+        <Valuta>SEK</Valuta>
+        <Antal />
+        <Nominellt_belopp>-705000000</Nominellt_belopp>
+        <Kurs_som_använts_vid_värdering_av_instrumentet>0.0000000000</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1.00000000000000000000</Valutakurs_instrument>
+        <Marknadsvärde_instrument>0.00</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.0000000000</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

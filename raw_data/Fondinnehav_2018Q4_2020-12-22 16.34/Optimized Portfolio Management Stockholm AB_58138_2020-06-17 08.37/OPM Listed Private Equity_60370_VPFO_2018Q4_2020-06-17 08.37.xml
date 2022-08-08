@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2018-12-31</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>Optimized Portfolio Management Stockholm AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58138</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>549300AO3U8TJW5KLN17</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>60370</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0003039874</Fond_ISIN-kod>
+    <Fond_namn>OPM Listed Private Equity</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>OPM LISTED PRIVATE EQUITY A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.5</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>6% på årsbasis</Avkastningströskel>
+              <ProcentuelltUttag>10</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>OPM LISTED PRIVATE EQUITY E</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.6</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>6% på årsbasis</Avkastningströskel>
+              <ProcentuelltUttag>10</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>2240191569</Fondförmögenhet>
+    <Likvida_medel>105141596</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-1519138</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>3.55</Aktiv_risk>
+    <Standardavvikelse_24_månader>13.29</Standardavvikelse_24_månader>
+    <Jämförelseindex>
+      <Jämförelseindex>RedRocks Global Listed Private Equity Index</Jämförelseindex>
+    </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INDUS HOLDING AG</Instrumentnamn>
+        <ISIN-kod_instrument>DE0006200108</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>122273</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>39</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.154</Valutakurs_instrument>
+        <Marknadsvärde_instrument>48420841.64</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.16</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>20</Branschkod_instrument>
+          <Bransch_namn_instrument>Industrivaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INVESTOR B</Instrumentnamn>
+        <ISIN-kod_instrument>SE0000107419</ISIN-kod_instrument>
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>SEK</Valuta>
+        <Antal>130000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>375.6</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>1</Valutakurs_instrument>
+        <Marknadsvärde_instrument>48828000</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.18</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JAFCO CO LTD</Instrumentnamn>
+        <ISIN-kod_instrument>JP3389900006</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>JPY</Valuta>
+        <Antal>150000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3495</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.080845</Valutakurs_instrument>
+        <Marknadsvärde_instrument>42382991.25</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.89</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ICG ENTERPRISE TRUST</Instrumentnamn>
+        <ISIN-kod_instrument>GB0003292009</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>485000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>8.04</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.2974</Valutakurs_instrument>
+        <Marknadsvärde_instrument>44053081.56</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.97</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HARBOURVEST GLOB PEQ</Instrumentnamn>
+        <ISIN-kod_instrument>GG00BR30MJ80</ISIN-kod_instrument>
+        <Landkod_Emittent>GG</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>577300</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>13.48</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.2974</Valutakurs_instrument>
+        <Marknadsvärde_instrument>87916411.99</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.92</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HBM HEALTHCARE INVES</Instrumentnamn>
+        <ISIN-kod_instrument>CH0012627250</ISIN-kod_instrument>
+        <Landkod_Emittent>CH</Landkod_Emittent>
+        <Valuta>CHF</Valuta>
+        <Antal>66000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>155.4</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.0167</Valutakurs_instrument>
+        <Marknadsvärde_instrument>92478881.88</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.13</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HGCAPITAL TRUST PLC</Instrumentnamn>
+        <ISIN-kod_instrument>GB0003921052</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>486138</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>17.85</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.2974</Valutakurs_instrument>
+        <Marknadsvärde_instrument>98033903.63</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.38</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>KKR &amp; CO LP</Instrumentnamn>
+        <ISIN-kod_instrument>US48251W1045</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>884700</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>19.63</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.8635</Valutakurs_instrument>
+        <Marknadsvärde_instrument>153929399.77</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>6.87</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ROCKET INTERNET SE</Instrumentnamn>
+        <ISIN-kod_instrument>DE000A12UKK6</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>195000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>20.18</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.154</Valutakurs_instrument>
+        <Marknadsvärde_instrument>39957005.4</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.78</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>25</Branschkod_instrument>
+          <Bransch_namn_instrument>Sällanköpvaror och tjänster</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SOFTBANK CORP ORD</Instrumentnamn>
+        <ISIN-kod_instrument>US83404D1090</ISIN-kod_instrument>
+        <Landkod_Emittent>JP</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>200000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>32.6</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.8635</Valutakurs_instrument>
+        <Marknadsvärde_instrument>57790020</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.58</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Telekomoperatörer</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>STANDARD LIFE EURO P</Instrumentnamn>
+        <ISIN-kod_instrument>GB0030474687</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>800000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3.235</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.2974</Valutakurs_instrument>
+        <Marknadsvärde_instrument>29237671.2</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.31</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>PRINCESS PRIV EQTY H</Instrumentnamn>
+        <ISIN-kod_instrument>GG00B28C2R28</ISIN-kod_instrument>
+        <Landkod_Emittent>GG</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>410000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>8.4</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.154</Valutakurs_instrument>
+        <Marknadsvärde_instrument>34970376</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.56</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NASPERS LTD-N SHS</Instrumentnamn>
+        <ISIN-kod_instrument>ZAE000015889</ISIN-kod_instrument>
+        <Landkod_Emittent>ZA</Landkod_Emittent>
+        <Valuta>ZAR</Valuta>
+        <Antal>17000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2892.27</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>0.6158</Valutakurs_instrument>
+        <Marknadsvärde_instrument>30278017.72</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.35</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>50</Branschkod_instrument>
+          <Bransch_namn_instrument>Telekomoperatörer</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ONEX CORPORATION</Instrumentnamn>
+        <ISIN-kod_instrument>CA68272K1030</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>118000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>74.35</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.4924</Valutakurs_instrument>
+        <Marknadsvärde_instrument>56959772.92</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.54</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>PANTHEON INT PLC</Instrumentnamn>
+        <ISIN-kod_instrument>GB0004148507</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>389973</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>19.7</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.2974</Valutakurs_instrument>
+        <Marknadsvärde_instrument>86791915.11</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.87</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GIMV ORD</Instrumentnamn>
+        <ISIN-kod_instrument>BE0003699130</ISIN-kod_instrument>
+        <Landkod_Emittent>BE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>58000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>46.9</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.154</Valutakurs_instrument>
+        <Marknadsvärde_instrument>27620910.8</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.23</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ARES MANAGEMENT CORP</Instrumentnamn>
+        <ISIN-kod_instrument>US03990B1017</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>190000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>17.78</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.8635</Valutakurs_instrument>
+        <Marknadsvärde_instrument>29942675.7</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.34</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AURELIUS AG</Instrumentnamn>
+        <ISIN-kod_instrument>DE000A0JK2A8</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>290000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>31.72</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.154</Valutakurs_instrument>
+        <Marknadsvärde_instrument>93404615.2</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.17</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BERKSHIRE HATHAWAY B</Instrumentnamn>
+        <ISIN-kod_instrument>US0846707026</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>72000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>204.18</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.8635</Valutakurs_instrument>
+        <Marknadsvärde_instrument>130301958.96</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.82</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ARES CAPITAL CORP</Instrumentnamn>
+        <ISIN-kod_instrument>US04010L1035</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>182177</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>15.58</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.8635</Valutakurs_instrument>
+        <Marknadsvärde_instrument>25157428.58</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.12</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>3I GROUP PLC</Instrumentnamn>
+        <ISIN-kod_instrument>GB00B1YW4409</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>934363</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>7.734</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.2974</Valutakurs_instrument>
+        <Marknadsvärde_instrument>81639118.35</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.64</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>3I INFRASTRUCTUR</Instrumentnamn>
+        <ISIN-kod_instrument>JE00BF5FX167</ISIN-kod_instrument>
+        <Landkod_Emittent>JE</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>1810141</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2.585</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.2974</Valutakurs_instrument>
+        <Marknadsvärde_instrument>52862957.72</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.36</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>APOLLO GLOBAL MANAGE</Instrumentnamn>
+        <ISIN-kod_instrument>US0376123065</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>615000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>24.54</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.8635</Valutakurs_instrument>
+        <Marknadsvärde_instrument>133768828.35</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.97</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BLACKSTONE GROUP LP</Instrumentnamn>
+        <ISIN-kod_instrument>US09253U1088</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>620000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>29.81</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.8635</Valutakurs_instrument>
+        <Marknadsvärde_instrument>163816979.7</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>7.31</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DEUTSCHE BETEILIGUNG</Instrumentnamn>
+        <ISIN-kod_instrument>DE000A1TNUT7</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>93528</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>33.55</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.154</Valutakurs_instrument>
+        <Marknadsvärde_instrument>31861875.12</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.42</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ELECTRA PRIV EQ PLC</Instrumentnamn>
+        <ISIN-kod_instrument>GB0003085445</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>245000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>4.02</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.2974</Valutakurs_instrument>
+        <Marknadsvärde_instrument>11126809.26</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.50</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>EURAZEO ORD</Instrumentnamn>
+        <ISIN-kod_instrument>FR0000121121</ISIN-kod_instrument>
+        <Landkod_Emittent>FR</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>185577</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>61.8</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.154</Valutakurs_instrument>
+        <Marknadsvärde_instrument>116452759.42</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.20</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>COMPASS DIVERSIFIED</Instrumentnamn>
+        <ISIN-kod_instrument>US20451Q1040</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>170000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>12.45</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.8635</Valutakurs_instrument>
+        <Marknadsvärde_instrument>18759597.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.84</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BROOKFIELD AM CAD</Instrumentnamn>
+        <ISIN-kod_instrument>CA1125851040</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>375500</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>52.32</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.4924</Valutakurs_instrument>
+        <Marknadsvärde_instrument>127550729.18</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.69</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BROOKFIELD RENEW</Instrumentnamn>
+        <ISIN-kod_instrument>BMG162581083</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>155000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>35.35</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.4924</Valutakurs_instrument>
+        <Marknadsvärde_instrument>35573482.7</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.59</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>55</Branschkod_instrument>
+          <Bransch_namn_instrument>Kraftförsörjning</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>CARLYLE GROUP LP</Instrumentnamn>
+        <ISIN-kod_instrument>US14309L1026</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>750000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>15.75</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>8.8635</Valutakurs_instrument>
+        <Marknadsvärde_instrument>104700093.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.67</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument>Finans</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

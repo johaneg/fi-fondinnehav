@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2020-03-31</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>CAAM Fund Services AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58138</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>549300AO3U8TJW5KLN17</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>60948</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0011230952</Fond_ISIN-kod>
+    <Fond_namn>OPM Multi Hedge</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>OPM MULTI HEDGE A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>0.6</Förvaltningsavgift_fast>
+            <Förvaltningsavgift_Prestationsbaserad>
+              <Avkastningströskel>10% på fondens överavkastning</Avkastningströskel>
+              <ProcentuelltUttag>10</ProcentuelltUttag>
+            </Förvaltningsavgift_Prestationsbaserad>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>OPM MULTI HEDGE B</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>74811564</Fondförmögenhet>
+    <Likvida_medel>-40716476</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>64495343</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>3.9</Aktiv_risk>
+    <Standardavvikelse_24_månader>0.00</Standardavvikelse_24_månader>
+    <Jämförelseindex>
+      <Jämförelseindex>HFRXGL Index</Jämförelseindex>
+    </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>MW TOPS UCITS FUND-G</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B99H7K39</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>14450</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>130.1323</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.9141</Valutakurs_instrument>
+        <Marknadsvärde_instrument>20523001.72</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>27.43</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SCH-CON T EQ-EEUR</Instrumentnamn>
+        <ISIN-kod_instrument>LU1725201203</ISIN-kod_instrument>
+        <Landkod_Emittent>LU</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>20140</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>105.65</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.9141</Valutakurs_instrument>
+        <Marknadsvärde_instrument>23222923.75</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>31.04</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GLOR-GR MC U-BF</Instrumentnamn>
+        <ISIN-kod_instrument>IE00BFNWR840</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>7720</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>107.2102</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.9141</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9033193.95</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>12.07</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>0</Branschkod_instrument>
+          <Bransch_namn_instrument>Övrigt</Bransch_namn_instrument>
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FX EUR/SEK 200423</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>-9010000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.9177921885302</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.9141</Valutakurs_instrument>
+        <Marknadsvärde_instrument>-1746422.18</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>-2.33</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>

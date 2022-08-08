@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VärdepappersfondInnehav xmlns="http://schemas.fi.se/publika/vardepappersfonder/20200331">
+  <Rapportinformation>
+    <Kvartalsslut>2020-06-30</Kvartalsslut>
+  </Rapportinformation>
+  <Bolagsinformation>
+    <Fondbolag_namn>Atlant Fonder AB</Fondbolag_namn>
+    <Fondbolag_institutnummer>58139</Fondbolag_institutnummer>
+    <Fondbolag_LEI-kod>213800CB62OJ7PACC335</Fondbolag_LEI-kod>
+  </Bolagsinformation>
+  <Fondinformation>
+    <Fond_institutnummer>60859</Fond_institutnummer>
+    <Fond_ISIN-kod>SE0008015077</Fond_ISIN-kod>
+    <Fond_namn>Pacific Precious</Fond_namn>
+    <Förvaltningsavgift>
+      <MedAndelsklasser>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Pacific Precious - A</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.00</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+        <Förvaltningsavgift>
+          <Andelsklass_namn>Pacific Precious - B</Andelsklass_namn>
+          <Förvaltningsavgift_Typ>
+            <Förvaltningsavgift_fast>1.90</Förvaltningsavgift_fast>
+          </Förvaltningsavgift_Typ>
+        </Förvaltningsavgift>
+      </MedAndelsklasser>
+    </Förvaltningsavgift>
+    <Fondförmögenhet>215499635</Fondförmögenhet>
+    <Likvida_medel>6919324</Likvida_medel>
+    <Övriga_tillgångar_och_skulder>-1349637</Övriga_tillgångar_och_skulder>
+    <Aktiv_risk>19.66</Aktiv_risk>
+    <Standardavvikelse_24_månader>19.67</Standardavvikelse_24_månader>
+    <Jämförelseindex>
+      <Jämförelseindex>OMRX T-BILL</Jämförelseindex>
+    </Jämförelseindex>
+    <FinansiellaInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SPROTT INC</Instrumentnamn>
+        <ISIN-kod_instrument>CA8520662088</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>26900</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>48.79</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.83786610878661006954535109679455775961</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8974364.21</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.16</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>60</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ETFS 1X DAILY SHORT</Instrumentnamn>
+        <ISIN-kod_instrument>JE00B24DKC09</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>700</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>17.2625</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>112524.76</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.05</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ROYAL GOLD INC</Instrumentnamn>
+        <ISIN-kod_instrument>US7802871084</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>8550</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>124.295</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9896146.63</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.59</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>WHEATON PRECIOUS METALS CORP</Instrumentnamn>
+        <ISIN-kod_instrument>CA9628791027</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>20000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>44.05</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8203935.86</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.81</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INVESCO PHY GOLD ETC</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B579F325</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>2030</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>172.98</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>3269928.67</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.52</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>SANDSTORM GOLD LTD</Instrumentnamn>
+        <ISIN-kod_instrument>CA80013R2063</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>112000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>9.62</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>10033199.38</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.66</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INVESCO PHYS PLT</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B40QP990</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>11460</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>80.045</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8542110.29</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.96</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>XETRA-GOLD</Instrumentnamn>
+        <ISIN-kod_instrument>DE000A0S9GB0</ISIN-kod_instrument>
+        <Landkod_Emittent>DE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>15000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>51.015</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.4602510460251041648430524675688633957</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8004445.61</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.71</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FIRST MINING GOLD CORP</Instrumentnamn>
+        <ISIN-kod_instrument>CA3208901064</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>350000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>.425</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.83786610878661006954535109679455775961</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1017132.58</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.47</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BARRICK GOLD CORP</Instrumentnamn>
+        <ISIN-kod_instrument>CA0679011084</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>32700</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>26.94</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8203358.51</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.81</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>PAN AMERICAN SILVER CORP</Instrumentnamn>
+        <ISIN-kod_instrument>CA6979001089</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>36500</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>30.39</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>10329276.73</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.79</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DB PHYSICAL GOLD ETC</Instrumentnamn>
+        <ISIN-kod_instrument>GB00B5840F36</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>5230</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>173.395</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8444707.41</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.92</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>HECLA MINING</Instrumentnamn>
+        <ISIN-kod_instrument>US4227041062</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>205000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>3.27</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6242347.79</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.90</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LUNDIN GOLD INC</Instrumentnamn>
+        <ISIN-kod_instrument>CA5503711080</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>70000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>12.74</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.83786610878661006954535109679455775961</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6098009</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.83</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FRANCO-NEVADA CORP</Instrumentnamn>
+        <ISIN-kod_instrument>CA3518581051</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>6700</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>139.64</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8712263.28</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.04</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>JOHNSON MATTHEY PLC</Instrumentnamn>
+        <ISIN-kod_instrument>GB00BZ4BQC70</ISIN-kod_instrument>
+        <Landkod_Emittent>GB</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>2000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>20.98</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.5062761506276156273524623168361662196</Valutakurs_instrument>
+        <Marknadsvärde_instrument>482803.35</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.22</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DB PHYSICAL SILVER E</Instrumentnamn>
+        <ISIN-kod_instrument>GB00B57Y9462</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>3750</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>174.01</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6076476.5</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.82</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>GOLD BULLION SECURITY</Instrumentnamn>
+        <ISIN-kod_instrument>GB00B00FHZ82</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>7950</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>166.885</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>12354659.48</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.73</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>NEWMONT MINING CORP</Instrumentnamn>
+        <ISIN-kod_instrument>US6516391066</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>12136</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>61.725</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6975623.22</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.24</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ISHARES PH GOLD GBP</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B4ND3602</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>GBP</Valuta>
+        <Antal>35100</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>28.1</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>11.5062761506276156273524623168361662196</Valutakurs_instrument>
+        <Marknadsvärde_instrument>11348755.23</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>5.27</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FORTUNA SILVER MINES INC</Instrumentnamn>
+        <ISIN-kod_instrument>CA3499151080</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>135000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>5.09</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>6398790.61</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.97</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ETFS PHYS GOLD USD</Instrumentnamn>
+        <ISIN-kod_instrument>DE000A1RX996</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>80000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>10.909</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.4602510460251041648430524675688633957</Valutakurs_instrument>
+        <Marknadsvärde_instrument>9128870.29</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.24</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>INVESCO PHY PLD USD</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B4LJS984</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>4600</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>185.325</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7938495.24</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.68</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>LIVENT CORP</Instrumentnamn>
+        <ISIN-kod_instrument>US53814L1089</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>888</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>6.16</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>50937.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.02</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ETFS PHYSICAL SILVER</Instrumentnamn>
+        <ISIN-kod_instrument>JE00B1VS3333</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>26950</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>17.08</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4286402.84</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>1.99</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>AGNICO EAGLE MINES LTD</Instrumentnamn>
+        <ISIN-kod_instrument>CA0084741085</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>12300</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>64.06</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7337335.77</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.40</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>FIRST MAJESTIC SILVER CORP</Instrumentnamn>
+        <ISIN-kod_instrument>CA32076V1031</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>84000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>9.95</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7783030.19</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.61</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ETFS SHORT SILVER</Instrumentnamn>
+        <ISIN-kod_instrument>JE00B24DKK82</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>1000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>13.7275</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>127831.48</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.06</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ISHARES PHYSICAL SILVER USD</Instrumentnamn>
+        <ISIN-kod_instrument>IE00B4NCWG09</ISIN-kod_instrument>
+        <Landkod_Emittent>IE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>43000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>17.5375</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>7022350.27</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>3.26</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OSISKO GOLD ROYALTIES LTD</Instrumentnamn>
+        <ISIN-kod_instrument>CA68827L1013</ISIN-kod_instrument>
+        <Landkod_Emittent>CA</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>61000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>13.56</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.83786610878661006954535109679455775961</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5656009.33</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>2.62</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>OROCOBRE LTD</Instrumentnamn>
+        <ISIN-kod_instrument>AU000000ORE0</ISIN-kod_instrument>
+        <Landkod_Emittent>AU</Landkod_Emittent>
+        <Valuta>CAD</Valuta>
+        <Antal>28500</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>2.09</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>6.83786610878661006954535109679455775961</Valutakurs_instrument>
+        <Marknadsvärde_instrument>407297.49</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.19</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>15</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>ETFS PHYSL GOLD</Instrumentnamn>
+        <ISIN-kod_instrument>JE00B1VS3770</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>720</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>169.52</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>1136579.42</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.53</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>ÖverlåtbartVärdepapper</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>BNP COLLAT.ETC ON GOLD</Instrumentnamn>
+        <ISIN-kod_instrument>DE000PS7G0L8</ISIN-kod_instrument>
+        <Landkod_Emittent>NL</Landkod_Emittent>
+        <Valuta>EUR</Valuta>
+        <Antal>5500</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>153.51</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>10.4602510460251041648430524675688633957</Valutakurs_instrument>
+        <Marknadsvärde_instrument>8831642.26</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>4.10</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DIREXION DAILY JUNIOR GOLD M</Instrumentnamn>
+        <ISIN-kod_instrument>US25460G8078</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>31</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>16.98</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>4901.69</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.00</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>Fondandel</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>DIREXION DAILY GOLD MINERS I</Instrumentnamn>
+        <ISIN-kod_instrument>US25460G8805</ISIN-kod_instrument>
+        <Landkod_Emittent>US</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>25</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>24.87</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.31207248953974814593838955900635372643</Valutakurs_instrument>
+        <Marknadsvärde_instrument>5789.78</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.00</Andel_av_fondförmögenhet_instrument>
+        <Bransch>
+          <Branschkod_instrument>40</Branschkod_instrument>
+          <Bransch_namn_instrument />
+        </Bransch>
+      </FinansielltInstrument>
+      <FinansielltInstrument>
+        <Tillgångsslag_enligt_LVF_5_kap>DerivatinstrumentSamtTeknikerOchInstrument</Tillgångsslag_enligt_LVF_5_kap>
+        <Instrumentnamn>Forward Foreign Exchange, USD to SEK, Settle: 08/09/2020</Instrumentnamn>
+        <ISIN-kod_instrument />
+        <Landkod_Emittent>SE</Landkod_Emittent>
+        <Valuta>USD</Valuta>
+        <Antal>-4000000</Antal>
+        <Nominellt_belopp />
+        <Kurs_som_använts_vid_värdering_av_instrumentet>9.311046458</Kurs_som_använts_vid_värdering_av_instrumentet>
+        <Valutakurs_instrument>9.312</Valutakurs_instrument>
+        <Marknadsvärde_instrument>468810.17</Marknadsvärde_instrument>
+        <Andel_av_fondförmögenhet_instrument>0.22</Andel_av_fondförmögenhet_instrument>
+      </FinansielltInstrument>
+    </FinansiellaInstrument>
+  </Fondinformation>
+  <Fondinformation />
+</VärdepappersfondInnehav>
